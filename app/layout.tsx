@@ -69,6 +69,41 @@ export default function RootLayout({
             gtag('config', 'G-J7NNCYQ82M');
           `}
               </Script>
+                 <Script id="ad-script-1" strategy="lazyOnload">
+                {`(function(d,z,s){
+              s.src='https://'+d+'/401/'+z;
+              try {
+                  (document.body || document.documentElement).appendChild(s);
+              } catch(e) {
+                  console.error('Error loading script:', e);
+              }
+          })('groleegni.net',9094435,document.createElement('script'))`}
+              </Script>
+
+
+              <Script id="ad-script-2" strategy="lazyOnload">
+                {`(function(d,z,s){
+              s.src='https://'+d+'/401/'+z;
+              try {
+                  (document.body || document.documentElement).appendChild(s);
+              } catch(e) {
+                  console.error('Error loading script:', e);
+              }
+          })('gizokraijaw.net',9094436,document.createElement('script'))`}
+              </Script>
+
+
+              <Script id="ad-script-3" strategy="lazyOnload">
+                {`(function(d,z,s){
+              s.src='https://'+d+'/400/'+z;
+              try {
+                  (document.body || document.documentElement).appendChild(s);
+              } catch(e) {
+                  console.error('Error loading script:', e);
+              }
+          })('vemtoutcheeg.com',9094424,document.createElement('script'))`}
+              </Script>
+      
                             {/* Clicky Analytics Scripts */}
               <Script async data-id="101480616" src="//static.getclicky.com/js"></Script>
               <Script async data-id="101480616" src="/ee228c9c195641a1.js"></Script>

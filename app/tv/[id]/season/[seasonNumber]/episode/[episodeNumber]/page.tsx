@@ -99,33 +99,36 @@ export default async function EpisodePage({ params }: EpisodePageProps) {
         </div>
         <div className="flex justify-center">
           <ShareButtons
-                url={`${process.env.NEXT_PUBLIC_APP_URL || "https://moviewoods.vercel.app"}/tvShow/${tvShow.id}`} />
-            </div>
-        {/* Episode Navigation */}
-        <div className="flex justify-between">
-          {Number.parseInt(params.episodeNumber) > 1 && (
-            <Link
-              href={`/tv/${params.id}/season/${params.seasonNumber}/episode/${Number.parseInt(params.episodeNumber) - 1}`}
-              className="text-primary hover:underline"
-            >
-              ← Previous Episode
-            </Link>
-          )}
-  
-          {Number.parseInt(params.episodeNumber) < season.episodes.length && (
-            <Link
-              href={`/tv/${params.id}/season/${params.seasonNumber}/episode/${Number.parseInt(params.episodeNumber) + 1}`}
-              className="text-primary hover:underline ml-auto"
-            >
-              Next Episode →
-            </Link>
-          )}
+            url={`${process.env.NEXT_PUBLIC_APP_URL || "https://moviewoods.vercel.app"}/tv/${params.id}/season/${params.seasonNumber}/episode/${params.episodeNumber}`}
+            title={episodeTitle}
+            description={episode.overview || `Watch ${episodeTitle} on MovieWoods`}
+          />
         </div>
-        <EpisodeStructuredData tvShow={tvShow} season={season} episode={episode} params={params} />
-      </div>
-    )
+          {/* Episode Navigation */}
+          <div className="flex justify-between">
+            {Number.parseInt(params.episodeNumber) > 1 && (
+              <Link
+                href={`/tv/${params.id}/season/${params.seasonNumber}/episode/${Number.parseInt(params.episodeNumber) - 1}`}
+                className="text-primary hover:underline"
+              >
+                ← Previous Episode
+              </Link>
+            )}
+
+            {Number.parseInt(params.episodeNumber) < season.episodes.length && (
+              <Link
+                href={`/tv/${params.id}/season/${params.seasonNumber}/episode/${Number.parseInt(params.episodeNumber) + 1}`}
+                className="text-primary hover:underline ml-auto"
+              >
+                Next Episode →
+              </Link>
+            )}
+          </div>
+          <EpisodeStructuredData tvShow={tvShow} season={season} episode={episode} params={params} />
+        </div>
+        )
   } catch (error) {
-    notFound()
-  }
+          notFound()
+        }
 }
 

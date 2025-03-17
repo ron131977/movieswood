@@ -162,30 +162,33 @@ export default async function MoviePage({ params }: MoviePageProps) {
             </div>
           </div>
           <div className="flex justify-center">
-          <ShareButtons
-                url={`${process.env.NEXT_PUBLIC_APP_URL || "https://moviewoods.vercel.app"}/movie/${movie.id}`} />
-            </div>
-          {/* Recommendations */}
-          {movie.recommendations.results.length > 0 && (
-            <MediaSection
-              title="Recommended Movies"
-              media={movie.recommendations.results.map((item) => ({ ...item, media_type: "movie" }))}
+            <ShareButtons
+              url={`${process.env.NEXT_PUBLIC_APP_URL || "https://moviewoods.vercel.app"}/movie/${movie.id}`}
+              title={movie.title}
+              description={movie.overview || "Watch this movie on MovieWoods"}
             />
-          )}
-
-          {/* Similar Movies */}
-          {movie.similar.results.length > 0 && (
-            <MediaSection
-              title="Similar Movies"
-              media={movie.similar.results.map((item) => ({ ...item, media_type: "movie" }))}
-            />
-          )}
         </div>
-        <MovieStructuredData movie={movie} />
-      </div>
-    )
+            {/* Recommendations */}
+            {movie.recommendations.results.length > 0 && (
+              <MediaSection
+                title="Recommended Movies"
+                media={movie.recommendations.results.map((item) => ({ ...item, media_type: "movie" }))}
+              />
+            )}
+
+            {/* Similar Movies */}
+            {movie.similar.results.length > 0 && (
+              <MediaSection
+                title="Similar Movies"
+                media={movie.similar.results.map((item) => ({ ...item, media_type: "movie" }))}
+              />
+            )}
+          </div>
+          <MovieStructuredData movie={movie} />
+        </div>
+        )
   } catch (error) {
-    notFound()
-  }
+          notFound()
+        }
 }
 
