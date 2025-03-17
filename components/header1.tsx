@@ -33,7 +33,7 @@ export default function Header() {
           <form onSubmit={handleSearch} className="hidden md:flex relative">
             <Input
               type="search"
-              placeholder="Search..."
+              placeholder="Search... For Any Movies or Tv Show"
               className="w-[200px] lg:w-[300px]"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
