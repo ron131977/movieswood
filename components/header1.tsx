@@ -30,11 +30,11 @@ export default function Header() {
   return (
    
         <div className="flex items-center gap-2">
-          <form onSubmit={handleSearch} className="hidden md:flex relative">
+          <form onSubmit={handleSearch}  className="flex relative w-full md:w-auto">
             <Input
               type="search"
               placeholder="Search... For Any Movies or Tv Show"
-              className="w-[200px] lg:w-[300px]"
+              className="w-[400px] lg:w-[300px]"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
             />
@@ -44,10 +44,10 @@ export default function Header() {
             </Button>
           </form>
 
-          <Button variant="ghost" size="icon" className="md:hidden" onClick={() => router.push("/search")}>
+          {/* <Button variant="ghost" size="icon" className="md:hidden" onClick={() => router.push("/search")}>
             <Search className="h-5 w-5" />
             <span className="sr-only">Search</span>
-          </Button>
+          </Button> */}
 
         </div>
      )
