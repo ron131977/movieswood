@@ -34,12 +34,13 @@ export const metadata: Metadata = {
     title: "MovieWoods - Stream Movies and TV Shows",
     description:
       "Stream your favorite movies and TV shows on MovieWoods. Search for content and enjoy high-quality streaming.",
+      images: [`${process.env.NEXT_PUBLIC_APP_URL || "https://movieWoods.vercel.app"}/og_image.jpg`],
   },
   robots: {
     index: true,
     follow: true,
   },
-    generator: 'v0.dev'
+    generator: 'Dr Trailer'
 }
 
 export default function RootLayout({
