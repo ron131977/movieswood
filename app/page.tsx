@@ -4,6 +4,8 @@ import MediaSection from "@/components/media-section"
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
 import Image from "next/image"
+import Search from "@/components/header1"
+
 import HomeStructuredData from "./structured-data"
 
 export const metadata: Metadata = {
@@ -47,6 +49,15 @@ export default async function Home() {
   const featuredType = featuredItem.media_type
   const featuredId = featuredItem.id
 
+  const handleSearch = (e: React.FormEvent) => {
+    e.preventDefault()
+    if (searchQuery.trim()) {
+      router.push(`/search?q=${encodeURIComponent(searchQuery.trim())}`)
+      setSearchQuery("")
+      setIsMenuOpen(false)
+    }
+  }
+
   return (
     <div>
       {/* Hero Section */}
@@ -78,6 +89,9 @@ export default async function Home() {
           </div>
         </div>
       </section>
+      <div className="flex justify-center items-center">
+        <Search />
+      </div>
 
       {/* Content Sections */}
       <MediaSection title="Trending Now" media={trending} viewAllHref="/trending" />
