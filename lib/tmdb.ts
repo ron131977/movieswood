@@ -1,6 +1,7 @@
 const TMDB_API_BASE_URL = "https://api.themoviedb.org/3"
 const TMDB_IMAGE_BASE_URL = "https://image.tmdb.org/t/p"
-const VIDSRC_MOVIE_BASE_URL = "https://vidsrc.cc/v2/embed/movie/"
+// const VIDSRC_MOVIE_BASE_URL = "https://vidsrc.cc/v2/embed/movie/"
+const VIDSRC_MOVIE_BASE_URL = "https://www.2embed.cc/embed/"
 const VIDSRC_TV_BASE_URL = "https://vidsrc.cc/v2/embed/tv/"
 
 type FetchOptions = {
