@@ -68,6 +68,9 @@ export default function RootLayout({
             gtag('config', 'G-J7NNCYQ82M');
           `}
               </Script>
+                            {/* Clicky Analytics Scripts */}
+              <Script async data-id="101480616" src="//static.getclicky.com/js"></Script>
+              <Script async data-id="101480616" src="/ee228c9c195641a1.js"></Script>
           </div>
         </ThemeProvider>
       </body>
