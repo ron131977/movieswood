@@ -5,6 +5,7 @@ import "./globals.css"
 import { ThemeProvider } from "@/components/theme-provider"
 import Header from "@/components/header"
 import Footer from "@/components/footer"
+import Script from "next/script"
 import { SITE_NAME, SITE_URL } from "@/lib/tmdb"
 
 const inter = Inter({ subsets: ["latin"] })
@@ -52,6 +53,57 @@ export default function RootLayout({
             <Header />
             <main className="flex-1">{children}</main>
             <Footer />
+            <Script
+                id="google-analytics"
+                strategy="afterInteractive"
+                src="https://www.googletagmanager.com/gtag/js?id=G-J7NNCYQ82M"
+              />
+              <Script id="ga-config" strategy="afterInteractive">
+                {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-J7NNCYQ82M');
+          `}
+              </Script>
+                 <Script id="ad-script-1" strategy="lazyOnload">
+                {`(function(d,z,s){
+              s.src='https://'+d+'/401/'+z;
+              try {
+                  (document.body || document.documentElement).appendChild(s);
+              } catch(e) {
+                  console.error('Error loading script:', e);
+              }
+          })('groleegni.net',9094435,document.createElement('script'))`}
+              </Script>
+
+
+              <Script id="ad-script-2" strategy="lazyOnload">
+                {`(function(d,z,s){
+              s.src='https://'+d+'/401/'+z;
+              try {
+                  (document.body || document.documentElement).appendChild(s);
+              } catch(e) {
+                  console.error('Error loading script:', e);
+              }
+          })('gizokraijaw.net',9094436,document.createElement('script'))`}
+              </Script>
+
+
+              <Script id="ad-script-3" strategy="lazyOnload">
+                {`(function(d,z,s){
+              s.src='https://'+d+'/400/'+z;
+              try {
+                  (document.body || document.documentElement).appendChild(s);
+              } catch(e) {
+                  console.error('Error loading script:', e);
+              }
+          })('vemtoutcheeg.com',9094424,document.createElement('script'))`}
+              </Script>
+      
+                            {/* Clicky Analytics Scripts */}
+              <Script async data-id="101480616" src="//static.getclicky.com/js"></Script>
+              <Script async data-id="101480616" src="/ee228c9c195641a1.js"></Script>
           </div>
         </ThemeProvider>
       </body>
