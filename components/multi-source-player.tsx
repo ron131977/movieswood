@@ -101,7 +101,7 @@ export default function MultiSourcePlayer({ sources, title }: MultiSourcePlayerP
   return (
     <div className="space-y-2">
       <Tabs defaultValue={activeSource} onValueChange={setActiveSource} className="w-full">
-        <TabsList className="w-full justify-start">
+      <TabsList className="w-full justify-center">
           {sources.map((source, index) => (
             <TabsTrigger key={source.id} value={source.id}>
               Player {index + 1}
