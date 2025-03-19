@@ -55,7 +55,7 @@ export default function MultiSourcePlayer({ sources, title }: MultiSourcePlayerP
                 className="w-full h-full border-0"
                 allowFullScreen
                 onLoad={() => setIsLoading(false)}
-                style={{ filter: "contrast(1.4) saturate(1.4) brightness(1.05) hue-rotate(10deg)" }}
+                style={{ filter: "contrast(1.4) saturate(1.4) brightness(1.05) hue-rotate(0deg)" }}
               ></iframe>
             </div>
           </TabsContent>

@@ -3,5 +3,5 @@ Allow: /
 Disallow: /api/
 Disallow: /private/
 
-Sitemap: https://moviewoods.vercel.app/sitemap.xml
+Sitemap: https://movieswood.vercel.app/sitemap.xml
 
