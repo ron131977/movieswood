@@ -191,6 +191,7 @@ export async function generateMetadata({ params }: EpisodePageProps): Promise<Me
   }
 }
 
+
 export default async function EpisodePage({ params }: EpisodePageProps) {
   try {
     const tvShow = await fetchFromTMDB(`/tv/${params.id}`)

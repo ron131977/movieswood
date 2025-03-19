@@ -634,7 +634,7 @@ export default async function MoviePage({ params }: MoviePageProps) {
             />
           )}
         </div>
-        <MovieStructuredData movie={movie} />
+        <MovieStructuredData movie={movie}  />
       </div>
     )
   } catch (error) {
