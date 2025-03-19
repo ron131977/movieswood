@@ -24,7 +24,7 @@ export default function IframePlayer({ src, title }: IframePlayerProps) {
         className="w-full h-full border-0"
         allowFullScreen
         onLoad={() => setIsLoading(false)}
-        style={{ filter: "contrast(1.4) saturate(1.4) brightness(1.05) hue-rotate(10deg)" }}
+        style={{ filter: "contrast(1.2) saturate(1.3) brightness(1.0) hue-rotate(0deg)" }}
       ></iframe>
     </div>
   )
