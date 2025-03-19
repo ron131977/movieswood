@@ -237,7 +237,7 @@ export default async function Home() {
           </div>
         </div>
       </section>
-      <div className="flex justify-center items-center">
+      <div className="flex justify-center items-center" >
         <Search />
       </div>
       {/* Content Sections */}
