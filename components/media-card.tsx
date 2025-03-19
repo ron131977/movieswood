@@ -27,6 +27,7 @@ export default function MediaCard({ media }: MediaCardProps) {
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             className="object-cover"
             priority={false}
+            style={{ filter: "contrast(1.4) saturate(1.4) brightness(1.05) hue-rotate(10deg)" }}
           />
           {rating && <Badge className="absolute top-2 right-2 bg-primary/80">★ {rating}</Badge>}
         </div>
