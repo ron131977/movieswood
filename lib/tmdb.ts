@@ -453,6 +453,7 @@ export async function searchMulti(query: string) {
   })
 }
 
+
 // Update the getTrending function to use more specific caching strategies
 export async function getTrending(mediaType: "all" | "movie" | "tv" = "all", timeWindow: "day" | "week" = "week") {
   return fetchFromTMDB(`/trending/${mediaType}/${timeWindow}`, {
