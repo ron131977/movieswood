@@ -152,7 +152,7 @@ export default async function TrendingPage({ searchParams }: TrendingPageProps) 
       <h1 className="text-3xl font-bold mb-6">Trending Now</h1>
 
       <Tabs defaultValue={activeTab} className="mb-8">
-        <TabsList className="mb-4">
+        <TabsList className="mb-4 w-full justify-center">
           <TabsTrigger value="all">All</TabsTrigger>
           <TabsTrigger value="movies">Movies</TabsTrigger>
           <TabsTrigger value="tv">TV Shows</TabsTrigger>
