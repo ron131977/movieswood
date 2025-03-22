@@ -6,21 +6,21 @@ import { Button } from "@/components/ui/button"
 import { SearchIcon } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "Search Movies and TV Shows | MoviesWood",
-  description: "Search for your favorite movies and TV shows on MoviesWood.",
+  title: "Search Movies and TV Shows | MovieFlix",
+  description: "Search for your favorite movies and TV shows on MovieFlix.",
   robots: {
     index: true,
     follow: true,
   },
   openGraph: {
-    title: "Search Movies and TV Shows | MoviesWood",
-    description: "Search for your favorite movies and TV shows on MoviesWood.",
-    url: "https://movieswood.vercel.app/search",
-    siteName: "MoviesWood",
+    title: "Search Movies and TV Shows | MovieFlix",
+    description: "Search for your favorite movies and TV shows on MovieFlix.",
+    url: "https://movieflix.vercel.app/search",
+    siteName: "MovieFlix",
     type: "website",
   },
   alternates: {
-    canonical: "https://movieswood.vercel.app/search",
+    canonical: "https://movieflix.vercel.app/search",
   },
 }
 

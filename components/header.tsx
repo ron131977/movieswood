@@ -82,6 +82,16 @@ export default function Header() {
             </li>
             <li>
               <Link
+                href="/adult"
+                className="flex items-center gap-2 text-lg font-medium transition-colors hover:text-primary md:text-base"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                <Film className="h-5 w-5 md:hidden" />
+                Adult
+              </Link>
+            </li>
+            <li>
+              <Link
                 href="/trending"
                 className="flex items-center gap-2 text-lg font-medium transition-colors hover:text-primary md:text-base"
                 onClick={() => setIsMenuOpen(false)}

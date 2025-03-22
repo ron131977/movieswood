@@ -1,79 +1,97 @@
-"use client";
+import type { Metadata } from "next"
+import { SITE_NAME, SITE_URL } from "@/lib/tmdb"
 
-import { useEffect, Suspense } from 'react';
-import { Separator } from "@/components/ui/separator";
-import Script from "next/script";
+export const metadata: Metadata = {
+  title: `Terms of Service | ${SITE_NAME}`,
+  description: `Read the terms and conditions for using ${SITE_NAME}.`,
+  openGraph: {
+    title: `Terms of Service | ${SITE_NAME}`,
+    description: `Read the terms and conditions for using ${SITE_NAME}.`,
+    url: `${SITE_URL}/terms`,
+    siteName: SITE_NAME,
+    type: "website",
+  },
+  alternates: {
+    canonical: `${SITE_URL}/terms`,
+  },
+}
 
-function TermsContent() {
-  useEffect(() => {
-    if (typeof window !== "undefined" && (window as any).analytics) {
-      (window as any).analytics.track("PageView");
-    }
-  }, []);
+export default function TermsPage() {
+  const lastUpdated = "March 18, 2025"
 
   return (
-    <div className="container mx-auto px-4 py-8 text-center">
-      <h1 className="text-4xl font-bold mb-4">Terms of Service</h1>
-      <p className="text-muted-foreground mb-6 text-lg">Last updated: March 8, 2025</p>
-      
-      <div className="prose dark:prose-invert max-w-none text-left mx-auto">
-        <h2 className="text-2xl font-semibold mb-4">Introduction</h2>
+    <div className="container py-12">
+      <h1 className="text-4xl font-bold mb-2">Terms of Service</h1>
+      <p className="text-muted-foreground mb-8">Last Updated: {lastUpdated}</p>
+
+      <div className="prose prose-lg dark:prose-invert max-w-none">
+        <p className="lead">Please read these Terms of Service carefully before using the {SITE_NAME} website.</p>
+
+        <h2>1. Agreement to Terms</h2>
         <p>
-          Please read these <strong>Terms of Service</strong> carefully before using the MovieWoods website (the "Service")
-          operated by MovieWoods ("us", "we", or "our").
-        </p>
-        <p>
-          Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms.
-          These Terms apply to all visitors, users, and others who access or use the Service.
+          By accessing or using our website, you agree to be bound by these Terms of Service. If you disagree with any
+          part of the terms, you may not access the website.
         </p>
 
-        <Separator className="my-6" />
-
-        <h2 className="text-2xl font-semibold mb-4">Content Ownership</h2>
+        <h2>2. Intellectual Property</h2>
         <p>
-          All movies, trailers, and related content displayed on MovieWoods are the property of their respective owners.
-          Any unauthorized use, reproduction, or distribution of content without prior permission is prohibited.
+          The website and its original content, features, and functionality are owned by {SITE_NAME}
+          and are protected by international copyright, trademark, patent, trade secret, and other intellectual property
+          or proprietary rights laws.
         </p>
 
-        <Separator className="my-6" />
-
-        <h2 className="text-2xl font-semibold mb-4">User Accounts</h2>
+        <h2>3. User Content</h2>
         <p>
-          By creating an account with us, you agree to provide accurate and complete information.
-          You are responsible for maintaining the security of your account and password.
+          Our website may allow you to post, link, store, share, and otherwise make available certain information, text,
+          graphics, videos, or other material. You are responsible for the content that you post to the website,
+          including its legality, reliability, and appropriateness.
         </p>
 
-        <Separator className="my-6" />
+        <h2>4. Prohibited Uses</h2>
+        <p>You may use our website only for lawful purposes and in accordance with these Terms. You agree not to:</p>
+        <ul>
+          <li>Use the website in any way that violates any applicable national or international law or regulation</li>
+          <li>Use the website to transmit or send unsolicited commercial communications</li>
+          <li>
+            Use the website to impersonate or attempt to impersonate {SITE_NAME}, a {SITE_NAME} employee, another user,
+            or any other person or entity
+          </li>
+          <li>Interfere with or disrupt the website or servers or networks connected to the website</li>
+          <li>Attack the website via a denial-of-service attack or a distributed denial-of-service attack</li>
+          <li>Otherwise attempt to interfere with the proper working of the website</li>
+        </ul>
 
-        <h2 className="text-2xl font-semibold mb-4">Third-Party Links</h2>
+        <h2>5. Streaming Content</h2>
         <p>
-          Our Service may contain links to third-party websites that are not owned or controlled by MovieWoods.
-          We are not responsible for the content or practices of any third-party site.
+          {SITE_NAME} provides links to streaming content hosted by third parties. We do not host any copyrighted
+          content on our servers. We are not responsible for the content, accuracy, compliance, legality, decency, or
+          any other aspect of the content linked through our service.
         </p>
 
-        <Separator className="my-6" />
-
-        <h2 className="text-2xl font-semibold mb-4">Account Termination</h2>
+        <h2>6. Limitation of Liability</h2>
         <p>
-          We reserve the right to suspend or terminate your account without prior notice if you violate these Terms.
+          In no event shall {SITE_NAME}, nor its directors, employees, partners, agents, suppliers, or affiliates, be
+          liable for any indirect, incidental, special, consequential, or punitive damages, including without
+          limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or
+          use of or inability to access or use the website.
         </p>
 
-        <Separator className="my-6" />
-
-        <h2 className="text-2xl font-semibold mb-4">Changes to Terms</h2>
+        <h2>7. Termination</h2>
         <p>
-          We reserve the right to update or modify these Terms at any time. Continued use of the Service constitutes acceptance of the revised Terms.
+          We may terminate or suspend your access to the website immediately, without prior notice or liability, for any
+          reason whatsoever, including without limitation if you breach the Terms.
         </p>
+
+        <h2>8. Changes to Terms</h2>
+        <p>
+          We reserve the right, at our sole discretion, to modify or replace these Terms at any time. By continuing to
+          access or use our website after those revisions become effective, you agree to be bound by the revised terms.
+        </p>
+
+        <h2>9. Contact Us</h2>
+        <p>If you have any questions about these Terms, please contact us through our Contact page.</p>
       </div>
     </div>
-  );
+  )
 }
 
-export default function TermsOfServicePage() {
-  return (
-    <Suspense fallback={<div className="text-center py-8">Loading...</div>}>
-      <Script src="/script.js" />
-      <TermsContent />
-    </Suspense>
-  );
-}

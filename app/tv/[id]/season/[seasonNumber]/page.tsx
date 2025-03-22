@@ -17,26 +17,26 @@ export async function generateMetadata({ params }: SeasonPageProps): Promise<Met
     const season = await fetchFromTMDB(`/tv/${params.id}/season/${params.seasonNumber}`)
 
     return {
-      title: `${tvShow.name}: ${season.name} | MoviesWood`,
-      description: season.overview || `Watch ${season.name} of ${tvShow.name} on MoviesWood`,
+      title: `${tvShow.name}: ${season.name} | MovieFlix`,
+      description: season.overview || `Watch ${season.name} of ${tvShow.name} on MovieFlix`,
       openGraph: {
         title: `${tvShow.name}: ${season.name}`,
-        description: season.overview || `Watch ${season.name} of ${tvShow.name} on MoviesWood`,
+        description: season.overview || `Watch ${season.name} of ${tvShow.name} on MovieFlix`,
         type: "video.tv_show",
         images: season.poster_path ? [getImageUrl(season.poster_path, "original")] : [],
       },
       twitter: {
         card: "summary_large_image",
-        title: `${tvShow.name}: ${season.name} | MoviesWood`,
-        description: season.overview || `Watch ${season.name} of ${tvShow.name} on MoviesWood`,
+        title: `${tvShow.name}: ${season.name} | MovieFlix`,
+        description: season.overview || `Watch ${season.name} of ${tvShow.name} on MovieFlix`,
       },
       alternates: {
-        canonical: `https://movieswood.vercel.app/tv/${params.id}/season/${params.seasonNumber}`,
+        canonical: `https://movieflix.vercel.app/tv/${params.id}/season/${params.seasonNumber}`,
       },
     }
   } catch (error) {
     return {
-      title: "Season Not Found | MoviesWood",
+      title: "Season Not Found | MovieFlix",
       description: "The requested season could not be found.",
     }
   }

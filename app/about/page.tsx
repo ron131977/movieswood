@@ -1,98 +1,69 @@
-"use client"
+import type { Metadata } from "next"
+import { SITE_NAME, SITE_URL } from "@/lib/tmdb"
 
-import { Suspense, useEffect } from 'react'
-import { useSearchParams } from 'next/navigation'
-import Image from "next/image"
-import { Separator } from "@/components/ui/separator"
-import Script from "next/script"
+export const metadata: Metadata = {
+  title: `About Us | ${SITE_NAME}`,
+  description: `Learn more about ${SITE_NAME} and our mission to provide high-quality streaming content.`,
+  openGraph: {
+    title: `About Us | ${SITE_NAME}`,
+    description: `Learn more about ${SITE_NAME} and our mission to provide high-quality streaming content.`,
+    url: `${SITE_URL}/about`,
+    siteName: SITE_NAME,
+    type: "website",
+  },
+  alternates: {
+    canonical: `${SITE_URL}/about`,
+  },
+}
 
-// Client component that uses searchParams
-function AboutContent() {
-  const searchParams = useSearchParams()
-  const section = searchParams.get('section')
-
-  useEffect(() => {
-    if (typeof window !== "undefined" && (window as any).analytics) {
-      (window as any).analytics.track("PageView");
-    }
-  }, []);
-
+export default function AboutPage() {
   return (
-    
-    <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold mb-6">About MovieWoods</h1>
+    <div className="container py-12">
+      <h1 className="text-4xl font-bold mb-8">About {SITE_NAME}</h1>
 
-      {/* Content remains the same */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
-        <div>
-          <h2 className="text-2xl font-semibold mb-4">Our Mission</h2>
-          <p className="text-muted-foreground mb-4">
-            At MovieWoods, our mission is to bring the magic of cinema to your screens. We provide an extensive collection of the latest blockbusters, timeless classics, and exclusive originals, ensuring that movie lovers always have access to premium entertainment.
-          </p>
-          <p className="text-muted-foreground">
-            Our platform is built for film enthusiasts who crave high-quality streaming with seamless user experience. Whether you're into action, drama, sci-fi, or indie films, MovieWoods is your ultimate destination for an unforgettable viewing experience.
-          </p>
-        </div>
-        <div className="relative w-full h-64 md:h-[400px] rounded-lg overflow-hidden">
-          <Image
-            src="https://res.cloudinary.com/dcrlnyd7n/image/upload/v1741650934/og_image_tmd2mb.jpg"
-            alt="About MovieWoods"
-            quality={90}
-            fill
-            className="object-cover"
-            priority
-            style={{ filter: "contrast(1.3) saturate(1.2) brightness(1.0) hue-rotate(0deg)" }}
-          />
-        </div>
-      </div>
-
-      <Separator className="my-8" />
-
-      <div className="mb-12">
-        <h2 className="text-2xl font-semibold mb-4">Our Story</h2>
-        <p className="text-muted-foreground mb-4">
-          MovieWoods was founded with a vision to redefine the movie streaming experience. Recognizing the growing demand for high-quality, on-demand content, we built a platform where movie lovers can enjoy their favorite films without limitations.
+      <div className="prose prose-lg dark:prose-invert max-w-none">
+        <p className="lead">
+          Welcome to {SITE_NAME}, your premier destination for streaming movies and TV shows online.
         </p>
-        <p className="text-muted-foreground">
-          From an idea born among film enthusiasts to a fully developed streaming service, we have evolved into a hub for cinephiles worldwide. Our ever-growing collection ensures that you always find something new and exciting to watch.
+
+        <h2>Our Mission</h2>
+        <p>
+          At {SITE_NAME}, we're dedicated to providing a seamless and enjoyable streaming experience. Our platform
+          offers a vast library of movies and TV shows, from the latest blockbusters to classic favorites, all
+          accessible with just a few clicks.
         </p>
-      </div>
 
-      <Separator className="my-8" />
+        <h2>What We Offer</h2>
+        <ul>
+          <li>Extensive collection of movies and TV shows</li>
+          <li>High-quality streaming from multiple sources</li>
+          <li>User-friendly interface for easy navigation</li>
+          <li>Regular updates with the latest releases</li>
+          <li>Personalized recommendations based on your viewing history</li>
+        </ul>
 
-      <div>
-        <h2 className="text-2xl font-semibold mb-4">Our Values</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-          <div className="p-6 bg-muted rounded-lg">
-            <h3 className="text-xl font-medium mb-2">Entertainment</h3>
-            <p className="text-muted-foreground">
-              We are committed to delivering top-tier entertainment through an extensive selection of movies that cater to diverse tastes and preferences.
-            </p>
-          </div>
-          <div className="p-6 bg-muted rounded-lg">
-            <h3 className="text-xl font-medium mb-2">Quality</h3>
-            <p className="text-muted-foreground">
-              We prioritize high-definition streaming, ensuring that every movie you watch offers the best possible visual and audio experience.
-            </p>
-          </div>
-          <div className="p-6 bg-muted rounded-lg">
-            <h3 className="text-xl font-medium mb-2">Accessibility</h3>
-            <p className="text-muted-foreground">
-              Our platform is designed for ease of use, allowing viewers to access their favorite films anytime, anywhere, on any device.
-            </p>
-          </div>
-        </div>
+        <h2>Our Story</h2>
+        <p>
+          Founded in 2025, {SITE_NAME} was created by a team of passionate movie enthusiasts who wanted to build a
+          better streaming platform. We noticed that existing services often had limited libraries or poor streaming
+          quality, so we set out to create a solution that addresses these issues.
+        </p>
+        <p>
+          Since our launch, we've been continuously improving our platform based on user feedback and technological
+          advancements. Our goal is to become the go-to destination for movie and TV show streaming worldwide.
+        </p>
+
+        <h2>Looking Forward</h2>
+        <p>
+          As we continue to grow, we're excited about the future of {SITE_NAME}. We're constantly working on new
+          features and expanding our content library to enhance your viewing experience.
+        </p>
+        <p>
+          Thank you for choosing {SITE_NAME} for your entertainment needs. We hope you enjoy our platform as much as we
+          enjoy building it for you.
+        </p>
       </div>
     </div>
   )
 }
 
-// Main page component with Suspense boundary
-export default function AboutPage() {
-  return (
-    <Suspense fallback={<div>Loading...</div>}>
-         <Script src="/script.js" />
-      <AboutContent />
-    </Suspense>
-  )
-}

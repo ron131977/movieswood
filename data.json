@@ -1,0 +1,945 @@
+{
+  "movie": [
+   
+    {
+      "id": "1437446",
+     "videoUrl": "https://short.icu/YlU350XEc?thumbnail=https://cdn.technadu.com/wp-content/uploads/2025/03/The-Twister-Caught-in-the-Storm.jpg"
+    },
+    {
+      "id": "1294203",
+     "videoUrl": "https://short.icu/lwixaE7MM?thumbnail=https://m.media-amazon.com/images/S/pv-target-images/46687645eb140609071c198e4c5ff040acb5f1acd6d76fb44babb056c6be06ea.jpg"
+    },
+    {
+      "id": "696506",
+     "videoUrl": "https://short.icu/Wh3c_4i3i?thumbnail=https://www.factsmostly.com/wp-content/uploads/2025/01/Mickey-17.webp"
+    },
+    {
+      "id": "993710",
+     "videoUrl": "https://short.icu/AP4gomVgM?thumbnail=https://www.filmofilia.com/wp-content/uploads/2025/01/Back-in-Action-1.jpg"
+    },
+    {
+      "id": "1261501",
+     "videoUrl": "https://short.icu/nEdfZ8303?thumbnail=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYz0CxANFqUw2UoAMfUqsxeUsORp1-Etl0VQ&s"
+    },
+    {
+      "id": "1426142",
+     "videoUrl": "https://short.icu/cmSWtRA8O?thumbnail=https://occ-0-8407-90.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABTsD5dzRWGNhVxRAqABThVvi7CXBZMSYg4ERjKNk1TBPbIeVh0l_hI9-NSJ6XBO_d_MFexsWM6AxKiowKwd8P87AoUBSbET8voP8.jpg?r=c27"
+    },
+    {
+      "id": "1405338",
+     "videoUrl": "https://short.icu/WtV3XGR_m?thumbnail=https://i.ytimg.com/vi/w8ZZbYKQEX0/maxresdefault.jpg"
+    },
+    {
+      "id": "1422179",
+     "videoUrl": "https://short.icu/iA2q80RWb?thumbnail=https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVzd8Ohn4-pCqHnXEbIOET-BFCXz4jwGVQYCDvm0WcgSKsmERsYqaP8VJePAgqroGE3Wv3wa_xyyxCcxwZVajVbMQSzqhvYiWfY-.jpg?r=475"
+    },
+    {
+      "id": "1418522",
+     "videoUrl": "https://short.icu/DGu8aHllW?thumbnail=https://www.heavenofhorror.com/wp-content/uploads/2025/03/delicious-2025-Netflix-Review.jpg"
+    },
+    {
+      "id": "1204892",
+     "videoUrl": "https://short.icu/id5UJAh5J?thumbnail=https://i.gadgets360cdn.com/large/image_2_F_1741087055586.jpg"
+    },
+    {
+      "id": "1230208",
+     "videoUrl": "https://short.icu/ssO-uEXZH?thumbnail=https://www.heavenofhorror.com/wp-content/uploads/2025/02/Squad-36-Netflix-2025-Thriller-Review.jpg"
+    },
+    {
+      "id": "1084199",
+     "videoUrl": "https://short.icu/1A4wE0qJs?thumbnail=https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/companion-et00414405-1737629384.jpg"
+    },
+    {
+      "id": "1361622",
+     "videoUrl": "https://short.icu/mKrYwky4j?thumbnail=https://occ-0-8407-116.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSYpafGV0y5Pi4iPvdlgSqbEbt7hi9NgqTkXy5ZF7w2jT-KPHv8e13klmGSHT3RmkqGm1-c8X1jTnH1SkopUFBDE-9IagAA2ADvH.jpg?r=999"
+    },
+    {
+      "id": "604685",
+     "videoUrl": "https://short.icu/5nmwZhOeU?thumbnail=https://weliveentertainment.com/wp-content/uploads/2025/01/https-3A-2F-2Fcdn.evbuc_.com-2Fimages-2F924038513-2F575655774365-2F1-2Foriginal.20241228-023925.jpg"
+    },
+    {
+      "id": "822119",
+     "videoUrl": "https://short.icu/WnKkJoBQ49?thumbnail=https://movies.sterkinekor.co.za/CDN/media/entity/get/FilmTitleGraphic/HO00003393?referenceScheme=HeadOffice&allowPlaceHolder=true"
+    },
+    {
+      "id": "996821",
+     "videoUrl": "https://short.icu/938UOcUwW?thumbnail=https://i.ytimg.com/vi/vUuFuMD7CXA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOYZUhdsC-eB1Jb937R5gldZAscQ"
+    },
+    {
+      "id": "1140535",
+     "videoUrl": "https://short.icu/vn3MawEwy?thumbnail=https://i.ytimg.com/vi/WkPWfYe_IX4/mqdefault.jpg"
+    },
+    {
+      "id": "1300607",
+     "videoUrl": "https://short.icu/YiXMC1reZ?thumbnail=https://occ-0-8407-1361.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa3Qo1KVTUQ37Bsp2IosTn7WUKCPycwk-1e0q1shYERx4HkCYwIkrjBJQOwkyH_DZjiLz0t34QI-85qyj4_pOyapfHnKWtZSCLvnQmlmHzcyyhWNjdG4LavOjdTOaz-RpC8p0uHbAQkh7B4LAcf9NU0Zj5Y_zVOH22YFXdpB7o7hOAptkCy2vkM1lYS6ciw.jpg?r=5b7"
+    },
+    {
+      "id": "1397854",
+     "videoUrl": "https://short.icu/x28ZhrvQ8?thumbnail=https://i.ytimg.com/vi/stSoeRGIbWQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAYyUqrYQsi8zgk6t1QYTxJ_1oyeQ"
+    },
+    {
+      "id": "1425200",
+     "videoUrl": "https://voe.sx/e/yusgwak9knyw"
+    },
+    {
+      "id": "91023",
+     "videoUrl": "https://voe.sx/e/glhq6pxyfqsn"
+    },
+    {
+      "id": "1231828",
+     "videoUrl": "https://voe.sx/e/hwhnrizmkv8d"
+    },
+    {
+      "id": "1267217",
+     "videoUrl": "https://voe.sx/e/yiddvqbufch8"
+    },
+    {
+      "id": "1186532",
+     "videoUrl": "https://voe.sx/e/ey94s7xrcahx"
+    },
+    {
+      "id": "1235499",
+     "videoUrl": "https://voe.sx/e/ji9aznkpghsw"
+    },
+    {
+      "id": "1064758",
+     "videoUrl": "https://voe.sx/e/onxfoqobzq4m"
+    },
+    {
+      "id": "426063",
+     "videoUrl": "https://voe.sx/e/6wgwevock6xn"
+    },
+    {
+      "id": "1064213",
+     "videoUrl": "https://voe.sx/e/qn8r9h3a5ghq"
+    },
+    {
+      "id": "1097549",
+     "videoUrl": "https://voe.sx/e/6pus3akef5dp"
+    },
+    {
+      "id": "1151703",
+     "videoUrl": "https://voe.sx/e/k8slll01zejg"
+    },
+    {
+      "id": "8488",
+     "videoUrl": "https://voe.sx/e/zac1yrgbkivr"
+    },
+    {
+      "id": "1145725",
+     "videoUrl": "https://short.icu/T3f3vJgIM?thumbnail=https://tylerperry.com/wp-content/uploads/2025/02/Duplicity.png"
+    },
+    {
+      "id": "1362608",
+     "videoUrl": "https://short.icu/oEurWCtGs?thumbnail=https://www.heavenofhorror.com/wp-content/uploads/2025/03/Little-Siberia-Netflix-Movie-Review.jpg"
+    }
+  ],
+  "tv": [
+    {
+      "id": "108978",
+      "season1": "",
+      "season2": "",
+      "season3": "https://short.icu/eTHerEjO3?thumbnail=https://www.tvguide.com/a/img/resize/c6d4c07def64a8638a23117ab4156cc39ad66e73/hub/2024/12/06/f8755a4f-451b-4ca1-b57b-e90c5229703d/reachie.jpg?auto=webp&width=1092"
+    },
+    {
+      "id": "202555",
+      "season1": "https://short.icu/w0DBYm6x0?thumbnail=https://comicbook.com/wp-content/uploads/sites/4/2025/01/daredevil-born-again-poster-header.jpg"
+    },
+    {
+      "id": "244623",
+      "season1": "https://voe.sx/e/9vtsb3i9hbgx"
+    },
+    {
+      "id": "284792",
+      "season1": "https://short.icu/MgkA6HuNU?thumbnail=https://imgmedia.libero.pe/652x365/libero/original/2025/03/05/67c90a7baf11e120b571a2f7.webp"
+    },
+    {
+      "id": "250307",
+      "season1": "https://short.icu/876otuE0H?thumbnail=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXggBVnCCQXwgkpN-hCka-l2HF48yr4CHANAS-RHb-rgasdNcIfpALknHrW8NVtMU_Eq9xmGGX3NwvXflQZzo89Tv3qsR2zB4onAQNq56qPce35NOsoasVDJbMm01FG5YHHiZkEOc2U-AXjV35iQmVT0WGc5e4lIUgrOVDUog2QHOf2_mQOg/s1600/d512b1af-a840-11ef-9d42-12722d97%20%281%29.jpg"
+    },
+    {
+      "id": "216082",
+      "season1": "https://short.icu/F0mbpQZNx?thumbnail=https://www.gamesurf.it/media/zero_day_cover_6b326162af/cover_article_small.webp"
+    },
+    {
+      "id": "285099",
+      "season1": "https://short.icu/-LANcPlmM?thumbnail=https://jiotvimages.cdn.jio.com/imagespublic/51/82/f4144b9c0ca652aaae2c353bd43f2f5d_1739896393329_l_medium.jpg",
+      "season2": "",
+      "season3": ""
+    },
+    {
+      "id": "247830",
+      "season1": "https://short.icu/TfSsQpXl8?thumbnail=https://images.news18.com/ibnlive/uploads/2025/02/FotoJet-2025-02-18T151239.831-2025-02-277361cf69bb04057a9c373a62eb0c42-16x9.jpg?impolicy=website&width=640&height=360",
+      "season2": "",
+      "season3": ""
+    },
+    {
+      "id": "249756",
+      "season1": "https://short.icu/ZCA7_5EB5?thumbnail=https://m.media-amazon.com/images/S/pv-target-images/85317207ced9f518f0b70e19f5f1070231baa8776012ee3013b38a0c912db107._SX1080_FMjpg_.jpg"
+    },
+    {
+      "id": "112581",
+      "season1": "",
+      "season2": "https://short.icu/_OhKrrP8I?thumbnail=https://deadline.com/wp-content/uploads/2023/02/HLD-THE-RIG.jpg?w=1024",
+      "season3": ""
+    },
+    {
+      "id": "200861",
+      "season1": "",
+      "season2": "https://short.icu/wlsg4t9Os?thumbnail=https://images.justwatch.com/backdrop/273538563/s640/season-2",
+      "season3": ""
+    },
+    {
+      "id": "103051",
+      "season1": "",
+      "season2": "https://short.icu/K7Wlv7WLd?thumbnail=https://m.media-amazon.com/images/S/pv-target-images/03e398facfb8c631ed25e9588bd02008fcdea16c437cff6643fe6e45f83fb7d4._SX1080_FMjpg_.jpg",
+      "season3": ""
+    },
+    {
+      "id": "282171",
+      "season1": "https://short.icu/yvrw229-6?thumbnail=https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-6-4z5685473/list/1920x1080list69578814669f43ff84719ab86014cab1.jpg"
+    },
+    {
+      "id": "242054",
+      "season1": "https://short.icu/t0SN3zCcOX?thumbnail=https://fwmedia.fandomwire.com/wp-content/uploads/2025/03/15101404/The-Residence-Review-FandomWire.jpg"
+    },
+    {
+      "id": "217553",
+      "season1": "https://short.icu/9MzReADH8?thumbnail=https://dailynews24.in/english/wp-content/uploads/2025/01/viraj-52.jpg"
+    },
+    {
+      "id": "195670",
+      "season1": "",
+      "season2": "https://short.icu/WUAa1km_Q?thumbnail=https://www.hebronhawkeye.com/wp-content/uploads/2023/05/B875619F-96E0-4D8A-B912-A1BA5EB2CA04-900x506.jpeg"
+    }
+
+  ],
+  "adult": [
+    {
+      "id": "A40",
+      "slug": "the-pursuit-of-ust4-2025",
+      "title": "The Pursuit of Lust 4 - Tagalog Movie",
+      "description": "Money talks in this sensual drama, where a company director’s apparent generosity towards his top employee and his alluring girlfriend hides a darker motive. When the diligent worker is sent on a business trip, the lustful boss makes his move on his hot partner.",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDZjZjhlYzEtNjQ5NS00MmI1LTk0NDAtYzhhNjI1MTQwZmQ5XkEyXkFqcGc@._V1_.jpg",
+     "videoUrl": "https://short.icu/n4tKhRtwk?thumbnail=https://desix11.com/wp-content/uploads/2025/03/The-Pursuit-of-Lust-4-2025-Tagaliong-Hot-Short-Film-Vivamax.webp",
+      "videoUrl1": "https://voe.sx/e/epoelznf59td",
+      "videoUrl2": "https://www.2embed.cc/embed/1445981",
+      "duration": 4320,
+      "views": 198190,
+      "category": "Adult",
+      "releaseDate": "2025-03-07",
+      "director": "B.BATDELGER"
+    },
+    {
+      "id": "A39",
+      "slug": "malagkit-2025",
+      "title": "Malagkit - Tagalog Movie",
+      "description": "When a man proposes marriage to his girlfriend, she wants to find out first if they are ready for a lifetime commitment. She meets her friend and her husband that will open up desires they are not aware of for a long time.",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzNjYjFlMzQtNjBjOS00YTM5LWEyOTEtNGZmODExZTFiYmQ3XkEyXkFqcGc@._V1_.jpg",
+     "videoUrl": "https://short.icu/MrcFkVOWb?thumbnail=https://hotbazi.sbs/wp-content/uploads/2025/03/Malagkit-2025-Vivamax-Tagalog-Hot-Movies.jpg",
+      "videoUrl1": "https://voe.sx/e/f5lxes9qewhg",
+      "videoUrl2": "https://www.2embed.cc/embed/tt35682199",
+      "duration": 4320,
+      "views": 98190,
+      "category": "Adult",
+      "releaseDate": "2025-03-11",
+      "director": "Bobby Bonifacio Jr."
+    },
+    {
+      "id": "A38",
+      "slug": "celestina-burlesk-dancer-2025",
+      "title": "Celestina Burlesk Dancer - Tagalog Movie",
+      "description": "Look at the interesting perspective on the claim to fame of Celestina, who works at a strict and prestigious burlesque house.",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODdkN2FmYmItMGM2MS00NGVmLThjZjYtOTRiZjZiMDdkZDhmXkEyXkFqcGc@._V1_.jpg",
+     "videoUrl": "https://short.icu/hlVUA0RG1?thumbnail=https://imgr.cineserie.com/2025/03/6799906.jpg?imgeng=/f_jpg/cmpr_0/w_198/h_110/m_cropbox&ver=1",
+      "videoUrl1": "https://voe.sx/e/f5lxes9qewhg",
+      "videoUrl2": "https://www.2embed.cc/embed/tt35682199",
+      "duration": 7140,
+      "views": 58190,
+      "category": "Adult",
+      "releaseDate": "2025-03-04",
+      "director": "Mac Alejandre"
+    },
+    {
+      "id": "A37",
+      "slug": "elevator-lady-2025",
+      "title": "Elevator Lady - Tagalog Movie",
+      "description": "VMX's newest crush Aliya Raymundo will turn the heat up as an elevator lady who uses her body to earn more money. She falls for a wealthy married man without her knowing that this will soon lead to her downfall.",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZTZhMGZjOTQtN2ZhMi00N2ZlLThiZWYtNGFmODdiNDFkN2JjXkEyXkFqcGc@._V1_.jpg",
+     "videoUrl": "https://short.icu/GB_T6UWH4?thumbnail=https://simkl.in/fanart/17/17365321120c5e485d_w.jpg",
+      "videoUrl1": "https://voe.sx/e/f5lxes9qewhg",
+      "videoUrl2": "https://www.2embed.cc/embed/tt35682199",
+      "duration": 4380,
+      "views": 75100,
+      "category": "Adult",
+      "releaseDate": "2025-03-14",
+      "director": "Roe Pajemna"
+    },
+     {
+      "id": "A36",
+      "slug": "kolektor-2025",
+      "title": "Kolektor - Tagalog Movie",
+      "description": "Jessie is an attractive young man with a dark secret. The women in his life all seem to go missing. Desire and danger collide in this Erotic horror-thriller.",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMTNlOTA0NjYtMjYwZi00OWRkLWEzOWEtMmI2OThmMmZmODM3XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+     "videoUrl": "https://short.icu/r6Cl5VZDe?thumbnail=https://desix11.com/wp-content/uploads/2025/03/Kolektor-2025-Tagalong-Hot-Movie-Vivamax.jpg",
+      "videoUrl1": "https://voe.sx/e/f5lxes9qewhg",
+      "videoUrl2": "https://www.2embed.cc/embed/tt35682199",
+      "duration": 5760,
+      "views": 183100,
+      "category": "Adult",
+      "releaseDate": "2025-03-07",
+      "director": "Carlo Alvarez"
+    },
+    {
+      "id": "A35",
+      "slug": "raat-baaki-baat-baaki-2025",
+      "title": "Raat Baaki Baat Baaki - Webseries",
+      "description":
+        "Ravinder, an influential disabled Man, acts caring toward his servant's daughter, Kavita, but secretly seeks revenge for a past betrayal.",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BNDJlOTE5ODUtMDU0Yy00ZTI0LTg4NTYtNjkxNWM3OTQ0ZmNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "videoUrl":
+        "https://short.icu/uQttB1FEr?thumbnail=https://i.ytimg.com/vi/PyhSWkORcdo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAeVa_lqREaqNeOK42LzZT9_wSEhw",
+      "videoUrl1": "https://voe.sx/e/z2e5fnokhsad",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 6000,
+      "views": 83100,
+      "category": "Adult",
+     "releaseDate": "2025-03-06",
+      "director": "NA"    
+    },
+    {
+      "id": "A34",
+      "slug": "shudh-shakahari-2025",
+      "title": "Shudh Shakahari - Webseries",
+      "description":
+        "This is the story of a boy who believes that pre-marital relation or sex before marriage is not a good thing either according to the society or according to human ethics. Lucky blieves that physical relation or sexual relation should happen only after marriage. Ruchi is an educated and sophisticated and well cultured girl. For her, the idea of having sex is very clear that sex is a physical need, it is a necessity and it can happen at any time. Its not a taboo. What happens when Ruchi comes into Lucky’s life? Wil Ruchi be able to change Lucky’s mind set?",
+      "thumbnailUrl":
+        "https://www.coolmoviez.bihar.in/files/images/Shudh_Shakahari_(2025)_9RedMovies_Original.jpg",
+      "videoUrl":
+        "https://short.icu/Ljy7rJhHa?thumbnail=https://www.9redmovies.com/uploads/episodeThumb/shudh-shakahari-episode-2-20250320062935.png",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 4920,
+      "views": 53100,
+      "category": "Adult",
+      "releaseDate": "2025-02-07",
+      "director": "NA"
+     },
+    {
+      "id": "A33",
+      "slug": "lag-ja-gale-part2-2025",
+      "title": "Lag Ja Gale Part 2 - Webseries",
+      "description":
+        "Vijendra desperately wants a grandson but learns his son is infertile. He decides to father a child with his daughter-in-law Madhvi himself. Will she accept this outrageous proposal, and will his wish be fulfilled?",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYWIwNjFiNWItOGVlNC00Mjc0LTgyMGEtZTUwMDA2YjhjZTg3XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+      "videoUrl":
+        "https://short.icu/tm5PGfBJL?thumbnail=https://i.ytimg.com/vi/201WiuY3uiw/maxresdefault.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 4080,
+      "views": 950000,
+      "category": "Adult",
+      "releaseDate": "2025-02-21",
+      "director": "Fahad Kashmiri"
+    },
+    {
+      "id": "A32",
+      "slug": "chirag-2025",
+      "title": "Chirag - Webseries",
+      "description":
+        "Chirag – Hulchul Web Series Genre: 18+ | Adult Release Date: 26 February 2025. Language: Hindi",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BOGNlNWNkNjgtNDBlZC00ZmU5LWJjMjQtZDI3Yjg4MjYwODZlXkEyXkFqcGc@._V1_.jpg",
+      "videoUrl":
+        "https://short.icu/ncErS4lks?thumbnail=https://uncutfun.com/wp-content/uploads/2025/02/Chirag-1-640x360.webp",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 4080,
+      "views": 650000,
+      "category": "Adult",
+      "releaseDate": "2025-02-26",
+      "director": "NA"
+     },
+    {
+      "id": "A31",
+      "slug": "daman-2025",
+      "title": "Daman - Webseries",
+      "description":
+        "Watch entertainment in all Regional Languages and 10+ Genres! RioPlus has the widest range of Indian.",
+      "thumbnailUrl":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEsacPdHhaSOs5-U0xuUk6wDAejp8j24uMiw&s",
+      "videoUrl":
+        "https://short.icu/CUYx0f7v1?thumbnail=https://res.cloudinary.com/dcrlnyd7n/image/upload/v1740530780/daman_on3f0v.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 2100,
+      "views": 250000,
+      "category": "Adult",
+      "releaseDate": "2025-02-21",
+      "director": "NA"
+    
+    },
+    {
+      "id": "A30",
+      "slug": "ansh-part1-2025",
+      "title": "Ansh Part 1 - Webseries",
+      "description":
+        "Zamaane Ki Zid Takrayegi, Magar Humari Chaah Ko Kaise Rok Payegi? Humein Hamara Ansh Mile Har Qeemat Pe, Duniya Bhi Humse Yahi Aas Lagayegi.",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMDZlMjkxNTktZGM3Yi00MDExLWJhN2UtNzIyN2I5NGYzY2E0XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+      "videoUrl":
+        "https://short.icu/4r_dVDYck?thumbnail=https://i.ytimg.com/vi/IxPtOetIiSI/maxresdefault.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 5880,
+      "views": 790000,
+      "category": "Adult",
+      "releaseDate": "2025-02-25",
+      "director": "Fahad Kashmiri"    
+    },
+    {
+      "id": "A29",
+      "slug": "wife-exchange-2025",
+      "title": "Wife Exchange - Webseries",
+      "description":
+        "A seemingly happy family is torn apart by betrayal and forbidden desires. Asha, married to Brijesh, harbors a secret affair with Ritesh, Brijesh’s younger brother and Rinki’s husband. Their deception remains hidden until one fateful day when Rinki catches them red-handed. Heartbroken and seeking justice, Rinki demands consequences, but the revelation ignites Brijesh’s fury. Consumed by rage and revenge, Brijesh makes a shocking demand—he wants to sleep with Rinki as retribution. As love, trust, and morality crumble, the family is thrust into chaos, forcing them to confront the devastating cost of betrayal.",
+      "thumbnailUrl":
+        "https://ww4.123movies.com.pk/wp-content/uploads/2025/02/Wife-Exchange-Season-1.jpg",
+      "videoUrl":
+        "https://short.icu/QSACmv0Wq?thumbnail=https://i1.wp.com/s10.imagetwist.com/th/67733/714ctjmmpixr.jpg?w=1200&resize=1200,0&ssl=1",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 3660,
+      "views": 490000,
+      "category": "Adult",
+      "releaseDate": "2025-02-14",
+      "director": "NA"
+    
+    },
+    {
+      "id": "A28",
+      "slug": "ishq-katilana-2025",
+      "title": "Ishq Katilana - Webseries",
+      "description":
+        "Watch the Awaited Teaser Ishq Katilana. Watch the all new series “Ishq Katilana” coming soon only on ALTT.",
+      "thumbnailUrl":
+        "https://altbalaji-new.multitvsolution.com/obs/source/jpg/1061_67a306493806d_360x540.jpg",
+      "videoUrl":
+        "https://short.icu/w3JIjtmP1?thumbnail=https://altbalaji-new.multitvsolution.com/obs/source/jpg/1061_67af39c25a737_854x480.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 4920,
+      "views": 590000,
+      "category": "Adult",
+      "releaseDate": "2025-02-14",
+      "director": "Rafat Abbas Ali, Raifee"    
+    },
+    {
+      "id": "A27",
+      "slug": "lene-ke-dene-2025",
+      "title": "Lene Ke Dene - Webseries",
+      "description":
+        "Pradeep, unhappy with his wife, grows close to Nisha, Sumit's wife. As Nisha takes advantage, Pradeep faces a tough choice.",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BYzFjMTUzOTgtOTdmOC00MzJjLThhYzAtOWFhNzEwZGRiZGJmXkEyXkFqcGc@._V1_.jpg",
+      "videoUrl":
+        "https://short.icu/h4VQ8s61_?thumbnail=https://www.cinefry.co.in/wp-content/uploads/2025/02/Lene-Ke-Dene.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 10800,
+      "views": 790000,
+      "category": "Adult",
+      "releaseDate": "2025-02-11",
+      "director": "Rafat Abbas Ali, Raifee"    
+    },
+    {
+      "id": "A26",
+      "slug": "swapna-sundariii-2025",
+      "title": "Swapna Sundariii - Webseries",
+      "description":
+        "Hiral Radadiya in Swapna Sundariii (2025). S1.E1 ∙ Swapna Sundariii S01E01. Sun, Feb 2, 2025. Add a plot. Rate. Hiral Radadiya in Swapna Sundariii (2025)",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BOTAwNjNjMDctZDNhNC00NWM0LWI0YjYtZWUwMjViNWRiNzc3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "videoUrl":
+        "https://short.icu/p-hbqHFPX?thumbnail=https://www.rioplus.in/media/posters/2025-02-0244e64ecb6862471aa62d724bb7540a9e.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 5640,
+      "views": 390000,
+      "category": "Adult",
+      "releaseDate": "2025-02-14",
+      "director": "NA"    
+    },
+    {
+      "id": "A25",
+      "slug": "walker-2025",
+      "title": "Walker - Tagalog Movie",
+      "description":
+        "Alexa, a prostitute haunted by her friend's murder, uses herself as bait to find the killer, sleeping with various men in her quest.",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BYTVmOTI2ZmYtNWVjNC00NjIzLWI4MDMtMDEwOWJmMGI4MjBmXkEyXkFqcGc@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+      "videoUrl":
+        "https://short.icu/dBqXw7m3v?thumbnail=https://images.justwatch.com/backdrop/326119035/s640/walker-2025",
+      "videoUrl1": "https://www.2embed.cc/embed/tt35544996",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 5100,
+      "views": 1000000,
+      "category": "Adult",
+      "releaseDate": "2025-02-28",
+      "director": "Lawrence Fajardo"    
+    },
+    {
+      "id": "A24",
+      "slug": "tokyo-nights-2025",
+      "title": "Tokyo Nights - Tagalog Movie",
+      "description":
+        "Newlywed couple Kara and Max are on their honeymoon when they encounter Kara's ex-boyfriend. Their honeymoon turns even spicier and toured around by Kara's ex-boyfriend.",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMWMwMjFhNDQtZmI4ZC00ZDk0LThlY2YtZTJmMjljMzc3NjFmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+      "videoUrl":
+        "https://short.icu/2G3ONmNLe?thumbnail=https://simkl.in/fanart/17/17264507988160f787_w.jpg",
+      "videoUrl1": "https://www.2embed.cc/embed/tt35544985",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 5340,
+      "views": 950000,
+      "category": "Adult",
+     "releaseDate": "2025-02-21",
+      "director": "Joey Cruz Manalang"    
+    },
+    {
+      "id": "A23",
+      "slug": "online-selling-2025",
+      "title": "Online Selling - Tagalog Movie",
+      "description":
+        "Two women, Melissa and Osang, sell sex items on the black market with ''extra service''. Melissa's life takes a sensual turn when a past lover becomes her customer and is out to get her back.",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BMGExMTdjN2MtZmFkZS00NGJhLTk2NWUtMzY2NDgyM2FlODI2XkEyXkFqcGc@._V1_.jpg",
+      "videoUrl":
+        "https://short.icu/A-9V660Ye?thumbnail=https://image.tmdb.org/t/p/w1280/LbRuVNpMYYlBBzXlG7Zcd2YCyb.jpg",
+      "videoUrl1": "https://www.2embed.cc/embed/tt35544722",
+      "videoUrl2": "https://vidsrc.cc/v2/embed/movie/tt35544722",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 4200,
+      "views": 750000,
+      "category": "Adult",
+      "releaseDate": "2025-02-14",
+      "director": "Jacqueline R. Carlos"    
+    },
+    {
+      "id": "A1",
+      "slug": "belyas-2025",
+      "title": "Belyas - Tagalog Movie",
+      "description":
+        "A housewife who is tired of her controlling husband takes a different turn when two young prostitutes rent their apartment. As she befriends the two. She begins to admire the sexual freedom they have.",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMmExYzg5MDktNjdmOS00ZmY0LWI4ZTYtMGI5OTlkMTRlMTFkXkEyXkFqcGc@._V1_.jpg",
+      "videoUrl":
+        "https://short.icu/SNT0oFuaz?thumbnail=https://i.ytimg.com/vi/rvPT3W5sEBU/sddefault.jpg",
+      "videoUrl1": "https://www.2embed.cc/embed/tt35544307",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 4200,
+      "views": 850000,
+      "category": "Adult",
+      "releaseDate": "2025-02-07",
+      "director": "GB Sampedro"    
+    },
+    {
+      "id": "A2",
+      "slug": "teachers-pet-2025",
+      "title": "Teachers Pet - Tagalog Movie",
+      "description":
+        "Robin, a young student, is obsessed with Tanya, his teacher. He then sees Tanya kissing a female student, so he blackmails her. When Robin believes that he is in control, he learns Tanyas dark personality.",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BY2Q5MDAxMmQtZTMwZC00MmU2LWIyZmQtZDRjZTc2NzY5ZTAxXkEyXkFqcGc@._V1_.jpg",
+      "videoUrl":
+        "https://short.icu/BPzayARiDj?thumbnail=https://i.ibb.co.com/SwsNyh8/Teachers-Pet-2024-Filipino-Hot-Short-Film-Vivamax.jpg",
+      "videoUrl1": "https://www.2embed.cc/embed/tt35109626",
+      "videoUrl2": "https://vidsrc.cc/v2/embed/movie/tt35109626",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 3900,
+      "views": 850000,
+      "category": "Adult",
+      "releaseDate": "2025-01-03",
+      "director": "Sigrid Polon"    
+    },
+    {
+      "id": "A3",
+      "slug": "halimuyak-2025",
+      "title": "Halimuyak - Tagalog Movie",
+      "description":
+        "Mikee falls for a beautiful perfumer, but their romance is jeopardized when a mysterious fragrance connects their pasts. As secrets unravel, they must confront painful truths and fight to keep their newfound love alive.",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMGU1MzNlMzMtMTBjNy00NWJmLTlhNjUtODA2ZTk1MDM3YjQzXkEyXkFqcGc@._V1_.jpg",
+      "videoUrl":
+        "https://short.icu/zF-7RGENG?thumbnail=https://simkl.in/fanart/17/1706376553a8d57816_w.jpg",
+      "videoUrl1": "https://www.2embed.cc/embed/tt35401814",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 3900,
+      "views": 990000,
+      "category": "Adult",
+      "releaseDate": "2025-01-09",
+      "director": "Sigrid Polon"    
+    },
+    {
+      "id": "A4",
+      "slug": "balam-pichkari-part1-2025",
+      "title": "Balam Pichkari Part 1 - Webseries",
+      "description":
+        "Ramu marries into a village of only women, where every woman desires him except his wife. Can he reunite with Jumki?",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYzgxNzkyMTYtZDE1Yy00ZWM0LWEzNWQtNmI5OWU2OGZjMmYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "videoUrl":
+        "https://short.icu/0og7-qZHT?thumbnail=https://m3.imgdf.xyz/mm/Balam.Pichkari.Part01E01_Ullu.png",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 5400,
+      "views": 350000,
+      "category": "Adult",
+      "releaseDate": "2025-02-07",
+      "director": "Sigrid Polon"    
+    },
+    {
+      "id": "A5",
+      "slug": "dekho-magar-pyar-se-part1-2025",
+      "title": "Dekho Magar Pyar Se Part 1 - Webseries",
+      "description":
+        "Prashant's peculiar condition draws Bhushan and Snehlata into his life. As secrets and betrayals surface, a gripping tale of trust, manipulation, and revenge takes an unexpected turn.",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BYmRmZmUxNWMtOTNhZi00NjI0LWJlNmYtZDc4YTM1YTljNzMxXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+      "videoUrl":
+        "https://short.icu/8tMPjYhpPJ?thumbnail=https://imb.rest/wp-content/uploads/2025/01/photo_2025-01-27_23-18-06.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 6180,
+      "views": 950000,
+      "category": "Adult",
+      "releaseDate": "2025-01-27",
+      "director": "Rafat Abbas Ali, Raifee"    
+    },
+    {
+      "id": "A6",
+      "slug": "utha-le-jaunga-2025",
+      "title": "Utha Le Jaunga - Webseries",
+      "description":
+        "Balwant and Saket bring their sister's husband, Nitin, home to fulfill ambitions, but unforeseen events turn everything upside down.",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BOTM5ZWI4NDQtNWU4Yi00YjFlLThiNWQtZjQyNWI1YThlZDM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "videoUrl":
+        "https://short.icu/Vp3U30R1M?thumbnail=https://i.ytimg.com/vi/ziM2PLaej5o/sddefault.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 4740,
+      "views": 130000,
+      "category": "Adult",
+      "releaseDate": "2025-01-15",
+      "director": "Rafat Abbas Ali, Raifee"    
+    },
+    {
+      "id": "A7",
+      "slug": "rakhwala-2025",
+      "title": "Rakhwala - Webseries",
+      "description":
+        "Rakhwala: With Janab Shah, Kamal Krishna Poudyal, Priyanka Chaurasia, Gaurav Sinha.",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BN2IxNDc3NjAtY2JiNS00ZWEwLTgwNDEtZjQzMzdlMDcxN2UxXkEyXkFqcGc@._V1_.jpg",
+      "videoUrl":
+        "https://short.icu/8At1zNiNU?thumbnail=https://www.indianporn365.net/wp-content/uploads/2025/01/Rakhwala-2025-Hulchul-Hindi-Hot-Web-Series-Episode-6.jpg",
+      "duration": 6240,
+      "views": 1250000,
+      "category": "Adult",
+      "releaseDate": "2025-01-22",
+      "director": "NA"    
+    },
+    {
+      "id": "A8",
+      "slug": "badmash-2025",
+      "title": "Badmash - Webseries",
+      "description":
+        "A man who was trying to cross the river of life in 2 boats, would his boat cross?",
+      "thumbnailUrl":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4DEaNXuN5bZUnoV6IizZHat3CKs1zk5JGQ&s",
+      "videoUrl":
+        "https://short.icu/jJ7Skxhxl?thumbnail=https://www.mastram.app/media/posters/2025-01-0374c970efb0c842c6aad2a46026ad78cf.jpg",
+      "duration": 6240,
+      "views": 1250000,
+      "category": "Adult",
+      "releaseDate": "2025-01-22",
+      "director": "NA"    
+    },
+    {
+      "id": "A9",
+      "slug": "yaar-gaddar-2025",
+      "title": "Yaar Gaddar - Webseries",
+      "description":
+        "Details · Release date · Jan 18, 2024 (India) · Country of origin. India · Official site. Yaar Pyaar Gaddar · Language. Hindi · Production company · Bigshots",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNDg0ZmRlZjgtMDE3OS00YTlkLTkwMDktNTFkOGY2NDQ3NzdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "videoUrl":
+        "https://short.icu/7XJglZgBa?thumbnail=https://pbs.twimg.com/media/Gi9hUXba4AELDUh.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 1800,
+      "views": 250000,
+      "category": "Adult",
+      "releaseDate": "2025-01-18",
+      "director": "NA"    
+    },
+    {
+      "id": "A10",
+      "slug": "pati-patni-aur-woh-dukaan-2025",
+      "title": "Pati Patni aur Woh Dukaan - Webseries",
+      "description":
+        "Raju, a general store owner makes love to women in his society because their husbands don’t get intimate with them. Someone blackmails Raju which makes him extort money from these women itself. Husbands on the other hand wonder why they can’t make their wive happy.",
+      "thumbnailUrl":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5-EspYyIkLxEMWu_Z1pXHUuUsplPRKN5yDxgl7ncm0kiOuy8kfek06uE8omMtB7rQ-3E&usqp=CAU",
+      "videoUrl":
+        "https://short.icu/B8-Vo78j4?thumbnail=https://altbalaji-new.multitvsolution.com/obs/source/jpg/1061_678a3a7d7d025_854x480.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 5700,
+      "views": 1550000,
+      "category": "Adult",
+      "releaseDate": "2025-01-17",
+      "director": "Saurabh Bhardwaj"    
+    },
+    {
+      "id": "A11",
+      "slug": "kamya-ki-kamna-2025",
+      "title": "Kamya Ki Kamna - Webseries",
+      "description":
+        "Sharad, filled with suspicion, confides in Arjun about his doubts regarding Kamya’s loyalty. Arjun tries to calm him, but Sharad is resolute, determined to uncover the truth. He believes Kamya is hiding something and is ready to confront whoever is involved. With unwavering resolve, Sharad vows to catch the person and expose the affair",
+      "thumbnailUrl":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzxkvAd95AEWan9UzNi9cUTdTYueT9bLq3A&s",
+      "videoUrl":
+        "https://short.icu/c5z9FLlZh?thumbnail=https://altbalaji-new.multitvsolution.com/obs/source/jpg/1061_677fea3c76699_854x480.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 5220,
+      "views": 550000,
+      "category": "Adult",
+      "releaseDate": "2025-01-10",
+      "director": "Rafat Abbas Ali, Varsha Hegde"    
+    },
+    {
+      "id": "A12",
+      "slug": "las-ilusyunadas-2025",
+      "title": "Las Ilusyunadas - Tagalog Movie",
+      "description":
+        "Emma and Sandra, widowed and haunted by grief, form an unexpected bond that transcends pain. As their relationship deepens amidst memories of their spouses, they question the line between illusion and reality.",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BZTJkNDMwMzUtNTc1OC00ZWEzLWFlNTItYWZjYmYyYmQ1ZWRkXkEyXkFqcGc@._V1_.jpg",
+      "videoUrl":
+        "https://short.icu/xYSN2orsb?thumbnail=https://images.justwatch.com/backdrop/323430620/s640/las-ilusyunadas",
+      "videoUrl1": "https://www.2embed.cc/embed/tt35230858",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 5400,
+      "views": 990000,
+      "category": "Adult",
+      "releaseDate": "2025-01-10",
+      "director": "Roman Perez Jr."    
+    },
+    {
+      "id": "A13",
+      "slug": "the-pursuit-of-lust-2025",
+      "title": "The Pursuit of Lust - Tagalog Movie",
+      "description":
+        "An unsatisfied housewife's longing for pleasure, her passionless husband fails to provide. That is until her spouse's foreigner business client who stays with them for few days, eventually gives in to her desires.",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BYjBiMDJkODgtOGQ3Zi00NDI0LThhZjUtMjg0NDRkNjZjZTI2XkEyXkFqcGc@._V1_.jpg",
+      "videoUrl":
+        "https://short.icu/n-wx9Epy4?thumbnail=https://simkl.in/fanart/17/172501651d369546fd_w.jpg",
+      "videoUrl1": "https://www.2embed.cc/embed/tt35681085",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 2280,
+      "views": 1300000,
+      "category": "Adult",
+      "releaseDate": "2025-01-10",
+      "director": "Batdelger Byambasuren"    
+    },
+    {
+      "id": "A14",
+      "slug": "wow-mani-2025",
+      "title": "Wow Mani - Tagalog Movie",
+      "description":
+        "An unsatisfied housewife's longing for pleasure, her passionless husband fails to provide. That is until her spouse's foreigner business client who stays with them for few days, eventually gives in to her desires.",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BNDEzMDIyYTQtM2NhMC00ODlhLThlYWQtNmQ3NDBmYjczYmY2XkEyXkFqcGc@._V1_.jpg",
+      "videoUrl":
+        "https://short.icu/PI6VBfN32?thumbnail=https://i.ibb.co/CBYGQ4c/Wow-Mani-2025-S01-E01-Tagalong-VMAX-WEB-DL-H264-AAC-1080p-720p-Downloa.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 2460,
+      "views": 1300000,
+      "category": "Adult",
+      "releaseDate": "2025-01-10",
+      "director": "Dominador Isip III"    
+    },
+    {
+      "id": "A15",
+      "slug": "sponsor-2025",
+      "title": "Sponsor - Tagalog Movie",
+      "description":
+        "Sisters Jasmine and Maya struggle financially. Jasmine becomes a sugar baby for a businessman to help her family, but the arrangement threatens both sisters'",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BMTE4MmY1Y2EtYWVkNy00YTRkLTkwMGYtZmZiMzY1ZWUyYzU3XkEyXkFqcGc@._V1_.jpg",
+      "videoUrl":
+        "https://short.icu/RbGoUnb0U?thumbnail=https://img.youtube.com/vi/agkJRuuRLCw/mqdefault.jpg",
+      "videoUrl1": "https://www.2embed.cc/embed/tt35544250",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 7080,
+      "views": 400000,
+      "category": "Adult",
+      "releaseDate": "2025-01-10",
+      "director": "Albert Langitan"    
+    },
+    {
+      "id": "A16",
+      "slug": "mere-angane-mein-2025",
+      "title": "Mere Angane Mein - Webseries",
+      "description":
+        "Sisters Jasmine and Maya struggle financially. Jasmine becomes a sugar baby for a businessman to help her family, but the arrangement threatens both sisters'",
+      "thumbnailUrl":
+        "https://m.media-amazon.com/images/M/MV5BMjhjMjMxOWItYmU1Zi00MTg4LWFhYTgtY2MwZWJhMThkZDRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "videoUrl":
+        "https://short.icu/u50OSSiZf?thumbnail=https://i.ytimg.com/vi/WmOTlcv-LFo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCVw6PFlhmfL3OwB0TUATN7Y8Ew3A",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 6360,
+      "views": 1400000,
+      "category": "Adult",
+      "releaseDate": "2025-01-10",
+      "director": "Rafat Abbas Ali, Raifee"    
+    },
+    {
+      "id": "A17",
+      "slug": "jija-sali-2025",
+      "title": "Jija Salii - Webseries",
+      "description":
+        "Sisters Jasmine and Maya struggle financially. Jasmine becomes a sugar baby for a businessman to help her family, but the arrangement threatens both sisters'",
+      "thumbnailUrl":
+        "https://pbs.twimg.com/media/GhkYGWMaYAAqczA.jpg",
+      "videoUrl":
+        "https://short.icu/UfxvVQDjp?thumbnail=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgaR5i46Hxoih1VyxarOriSLhzazbBXwcokg&s",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 1440,
+      "views": 1400000,
+      "category": "Adult",
+      "releaseDate": "2025-01-10",
+      "director": "NA"    
+    },
+    {
+      "id": "A18",
+      "slug": "chup-chup-ke-2025",
+      "title": "Chup Chup Ke - Webseries",
+      "description":
+        "Details · Release date · January 1, 2025 (India) · Country of origin. India · Official site. Chup Chup Ke · Language. Hindi · Production company · Hulchul Original.",
+      "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fOMl8d7QvxMNjcmgupN7-UIshSuyO7Mjvw&s",
+      "videoUrl":
+        "https://short.icu/OQvuUKMVr?thumbnail=https://i.ytimg.com/vi/hdbx-OnRRc0/maxresdefault.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 5820,
+      "views": 700000,
+      "category": "Adult",
+      "releaseDate": "2025-02-04",
+      "director": "NA"   
+    },
+    {
+      "id": "A19",
+      "slug": "hiram-na-sandali-2025",
+      "title": "Hiram Na Sandali - Tagalog Movie",
+      "description":
+        "Details · Release date · January 1, 2025 (India) · Country of origin. India · Official site. Chup Chup Ke · Language. Hindi · Production company · Hulchul Original.",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNjQwN2RlNDAtZWUzYi00NjY0LWFhYzItMzgxYWFiMjQ1NjM4XkEyXkFqcGc@._V1_.jpg",
+      "videoUrl":
+        "https://short.icu/9S2GH7NMs?thumbnail=https://simkl.in/fanart/17/17101059cf6c2ce9cd_w.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 4200,
+      "views": 850000,
+      "category": "Adult",
+      "releaseDate": "2025-01-20",
+      "director": "GB Sampedro"    
+    },
+    {
+      "id": "A20",
+      "slug": "murder-2025",
+      "title": "Murder - Webseries",
+      "description":
+        "Murder – 2025 – Hindi Hot Web Series – TriFlicks. Latest videos Most viewed videos Longest videos Popular videos Random videos.",
+      "thumbnailUrl": "https://pbs.twimg.com/media/GhpXyRaacAAMgfS.jpg",
+      "videoUrl":
+        "https://short.icu/X3t2iyboW?thumbnail=https://m3.imgdf.xyz/mm/Murder.E04.Triflicks.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 7560,
+      "views": 250000,
+      "category": "Adult",
+     "releaseDate": "2025-01-20",
+      "director": "NA"   
+    },
+    {
+      "id": "A21",
+      "slug": "virgin-nimmi-2025",
+      "title": "Virgin Nimmi - Webseries",
+      "description":
+        "Virgin Nimmi 2025 Jugnu Originals Hot Web Series Starring Pihu Singh and Pooja Poddar. Virgin Nimmi Season 1 [Jugnu] Web Series",
+      "thumbnailUrl":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtPkdhjhesLa9H0BnndGpN-_FEdp9AykiIOw&s",
+      "videoUrl":
+        "https://short.icu/jsdHrnzrF?thumbnail=https://i.ytimg.com/vi/wVjarK2zCpk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAnJzCva-5Lr5-tQkibXx8IyK3Vnw",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 6000,
+      "views": 350000,
+      "category": "Adult",
+      "releaseDate": "2025-01-24",
+      "director": "NA"    
+    },
+    {
+      "id": "A22",
+      "slug": "shanno-chudail-2025",
+      "title": "Shanno Chudail - Webseries",
+      "description":
+        "Virgin Nimmi 2025 Jugnu Originals Hot Web Series Starring Pihu Singh and Pooja Poddar. Virgin Nimmi Season 1 [Jugnu] Web Series",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYjkwNjEyZjMtMmIxMS00NjVmLWJmNDYtNTNiZDAxZjNkMDYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "videoUrl":
+        "https://short.icu/N2X9Bp5eS?thumbnail=https://s10.imagetwist.com/th/67311/wwj527nphdvg.jpg",
+      "videoUrl1": "https://short.icu/xvwb9e2G7",
+      "videoUrl2": "https://short.icu/xvwb9e2G7",
+      "videoUrl3": "https://short.icu/xvwb9e2G7",
+      "duration": 12180,
+      "views": 1350000,
+      "category": "Adult",
+      "releaseDate": "2025-01-24",
+      "director": "NA"
+    
+    }
+  ]
+}
+

@@ -21,6 +21,9 @@ export default function Footer() {
           <Link href="/terms" className="text-sm hover:underline underline-offset-4">
             Terms
           </Link>
+          <Link href="/dmca" className="text-sm hover:underline underline-offset-4">
+            DMCA
+          </Link>
           <Link href="/contact" className="text-sm hover:underline underline-offset-4">
             Contact
           </Link>

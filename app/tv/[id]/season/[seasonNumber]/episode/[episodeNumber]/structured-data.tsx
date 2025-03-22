@@ -19,17 +19,17 @@ export default function EpisodeStructuredData({ tvShow, season, episode, params 
     name: episode.name,
     episodeNumber: Number.parseInt(params.episodeNumber),
     seasonNumber: Number.parseInt(params.seasonNumber),
-    url: `https://movieswood.vercel.app/tv/${params.id}/season/${params.seasonNumber}/episode/${params.episodeNumber}`,
+    url: `https://movieflix.vercel.app/tv/${params.id}/season/${params.seasonNumber}/episode/${params.episodeNumber}`,
     partOfSeries: {
       "@type": "TVSeries",
       name: tvShow.name,
-      url: `https://movieswood.vercel.app/tv/${params.id}`,
+      url: `https://movieflix.vercel.app/tv/${params.id}`,
     },
     partOfSeason: {
       "@type": "TVSeason",
       seasonNumber: Number.parseInt(params.seasonNumber),
       name: season.name,
-      url: `https://movieswood.vercel.app/tv/${params.id}/season/${params.seasonNumber}`,
+      url: `https://movieflix.vercel.app/tv/${params.id}/season/${params.seasonNumber}`,
     },
     description: episode.overview,
     image: getImageUrl(episode.still_path, "w300"),
@@ -38,7 +38,7 @@ export default function EpisodeStructuredData({ tvShow, season, episode, params 
       "@type": "WatchAction",
       target: {
         "@type": "EntryPoint",
-        urlTemplate: `https://movieswood.vercel.app/tv/${params.id}/season/${params.seasonNumber}/episode/${params.episodeNumber}`,
+        urlTemplate: `https://movieflix.vercel.app/tv/${params.id}/season/${params.seasonNumber}/episode/${params.episodeNumber}`,
       },
     },
     video: {
@@ -47,7 +47,7 @@ export default function EpisodeStructuredData({ tvShow, season, episode, params 
       description: episode.overview || `Watch ${episode.name} from ${tvShow.name}`,
       thumbnailUrl: getImageUrl(episode.still_path, "w300"),
       uploadDate: episode.air_date || tvShow.first_air_date,
-      contentUrl: `https://movieswood.vercel.app/tv/${params.id}/season/${params.seasonNumber}/episode/${params.episodeNumber}`,
+      contentUrl: `https://movieflix.vercel.app/tv/${params.id}/season/${params.seasonNumber}/episode/${params.episodeNumber}`,
     },
   }
 
