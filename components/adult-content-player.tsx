@@ -129,9 +129,7 @@ export default function AdultContentPlayer({ title, videoUrl, videoUrl1, videoUr
                   className="w-full h-full border-0"
                   allowFullScreen
                   onLoad={() => setIsLoading(false)}
-                  style={{
-                    filter: "contrast(1.3) saturate(1.3) brightness(1.05) hue-rotate(10deg)",
-                  }}
+                  style={{ filter: "contrast(1.1) saturate(1.2) brightness(1.2) hue-rotate(10deg)" }}
                 ></iframe>
               </div>
             </TabsContent>
