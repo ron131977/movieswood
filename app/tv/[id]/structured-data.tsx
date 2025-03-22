@@ -25,7 +25,7 @@ export default function TvStructuredData({ tvShow }: { tvShow: TvDetails }) {
     name: tvShow.name,
     description: tvShow.overview,
     image: getImageUrl(tvShow.poster_path, "w500"),
-    url: `https://movieflix.vercel.app/tv/${tvShow.id}`,
+    url: `https://movieswood.vercel.app/tv/${tvShow.id}`,
     datePublished: tvShow.first_air_date,
     creator: creators.length > 0 ? creators : undefined,
     actor: actors,
@@ -46,7 +46,7 @@ export default function TvStructuredData({ tvShow }: { tvShow: TvDetails }) {
       "@type": "WatchAction",
       target: {
         "@type": "EntryPoint",
-        urlTemplate: `https://movieflix.vercel.app/tv/${tvShow.id}`,
+        urlTemplate: `https://movieswood.vercel.app/tv/${tvShow.id}`,
       },
     },
     season: tvShow.seasons.map((season) => ({
@@ -54,7 +54,7 @@ export default function TvStructuredData({ tvShow }: { tvShow: TvDetails }) {
       seasonNumber: season.season_number,
       name: season.name,
       numberOfEpisodes: season.episode_count,
-      url: `https://movieflix.vercel.app/tv/${tvShow.id}/season/${season.season_number}`,
+      url: `https://movieswood.vercel.app/tv/${tvShow.id}/season/${season.season_number}`,
       image: season.poster_path ? getImageUrl(season.poster_path, "w300") : undefined,
     })),
     trailer: tvShow.videos?.results?.find((v) => v.type === "Trailer")
@@ -63,7 +63,8 @@ export default function TvStructuredData({ tvShow }: { tvShow: TvDetails }) {
           name: `${tvShow.name} Trailer`,
           description: `Watch the trailer for ${tvShow.name}`,
           thumbnailUrl: getImageUrl(tvShow.backdrop_path, "w780"),
-          uploadDate: tvShow.first_air_date,
+          // uploadDate: tvShow.first_air_date,
+          uploadDate: `${tvShow.first_air_date}T00:00:00Z`,
           embedUrl: `https://www.youtube.com/embed/${tvShow.videos.results.find((v) => v.type === "Trailer")?.key}`,
         }
       : undefined,

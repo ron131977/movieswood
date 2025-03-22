@@ -16,7 +16,7 @@ export default function MovieStructuredData({ movie }: { movie: MovieDetails }) 
     name: movie.title,
     description: movie.overview,
     image: getImageUrl(movie.poster_path, "w500"),
-    url: `https://movieflix.vercel.app/movie/${movie.id}`,
+    url: `https://movieswood.vercel.app/movie/${movie.id}`,
     datePublished: movie.release_date,
     director: director
       ? {
@@ -43,7 +43,7 @@ export default function MovieStructuredData({ movie }: { movie: MovieDetails }) 
       "@type": "WatchAction",
       target: {
         "@type": "EntryPoint",
-        urlTemplate: `https://movieflix.vercel.app/movie/${movie.id}`,
+        urlTemplate: `https://movieswood.vercel.app/movie/${movie.id}`,
       },
     },
     trailer: movie.videos?.results?.find((v) => v.type === "Trailer")
@@ -52,7 +52,8 @@ export default function MovieStructuredData({ movie }: { movie: MovieDetails }) 
           name: `${movie.title} Trailer`,
           description: `Watch the trailer for ${movie.title}`,
           thumbnailUrl: getImageUrl(movie.backdrop_path, "w780"),
-          uploadDate: movie.release_date,
+          // uploadDate: movie.release_date,
+          uploadDate: `${movie.release_date}T00:00:00Z`, 
           embedUrl: `https://www.youtube.com/embed/${movie.videos.results.find((v) => v.type === "Trailer")?.key}`,
         }
       : undefined,
