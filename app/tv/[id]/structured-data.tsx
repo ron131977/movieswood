@@ -64,7 +64,7 @@ export default function TvStructuredData({ tvShow }: { tvShow: TvDetails }) {
           description: `Watch the trailer for ${tvShow.name}`,
           thumbnailUrl: getImageUrl(tvShow.backdrop_path, "w780"),
           // uploadDate: tvShow.first_air_date,
-          uploadDate: `${tvShow.first_air_date}T00:00:00Z`,
+          uploadDate: `${tvShow.first_air_date}T00:00:00Z`, 
           embedUrl: `https://www.youtube.com/embed/${tvShow.videos.results.find((v) => v.type === "Trailer")?.key}`,
         }
       : undefined,

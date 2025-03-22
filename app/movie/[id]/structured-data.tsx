@@ -53,7 +53,7 @@ export default function MovieStructuredData({ movie }: { movie: MovieDetails }) 
           description: `Watch the trailer for ${movie.title}`,
           thumbnailUrl: getImageUrl(movie.backdrop_path, "w780"),
           // uploadDate: movie.release_date,
-          uploadDate: `${movie.release_date}T00:00:00Z`, 
+          uploadDate: `${movie.release_date}T00:00:00Z`,  
           embedUrl: `https://www.youtube.com/embed/${movie.videos.results.find((v) => v.type === "Trailer")?.key}`,
         }
       : undefined,
