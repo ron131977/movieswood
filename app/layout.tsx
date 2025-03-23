@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     template: `%s | ${SITE_NAME}`,
   },
   description: `Stream your favorite movies and TV shows on ${SITE_NAME}. Search for content and enjoy high-quality streaming.`,
-  keywords: ["movies", "tv shows", "streaming", "watch online", "film", "series"],
+  keywords: ["movieswood", "moviewood", "movieswood 2025", "movieswood webseries", "movies", "tv shows", "streaming", "watch online", "film", "series"],
   authors: [{ name: SITE_NAME }],
   creator: SITE_NAME,
   publisher: SITE_NAME,
