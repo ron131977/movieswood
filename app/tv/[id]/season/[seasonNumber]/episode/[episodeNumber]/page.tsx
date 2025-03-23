@@ -71,7 +71,7 @@ export default async function EpisodePage({ params }: EpisodePageProps) {
 
     // Add Hindi Dubbed player if available for this season
     if (hindiDubbedUrl) {
-      videoSources.push({ id: "hindiDubbed", name: "Full Hindi Dubbed", url: hindiDubbedUrl })
+      videoSources.push({ id: "hindiDubbed", name: "Player 4 Hindi", url: hindiDubbedUrl })
     }
 
     const episodeTitle = `${tvShow.name}: S${params.seasonNumber} E${params.episodeNumber} - ${episode.name}`

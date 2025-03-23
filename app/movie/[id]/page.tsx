@@ -69,7 +69,7 @@ export default async function MoviePage({ params }: MoviePageProps) {
 
     // Add Hindi Dubbed player if available
     if (hindiDubbedUrl) {
-      videoSources.push({ id: "hindiDubbed", name: "Full Hindi Dubbed", url: hindiDubbedUrl })
+      videoSources.push({ id: "hindiDubbed", name: "Player 4 Hindi", url: hindiDubbedUrl })
     }
 
     // Fetch trending movies
