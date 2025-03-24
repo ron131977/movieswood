@@ -5,6 +5,7 @@ import { getAllAdultContent } from "@/lib/adult-content"
 import MediaSection from "@/components/media-section"
 import AdultContentSection from "@/components/adult-content-section"
 import { Button } from "@/components/ui/button"
+import Search from "@/components/header1"
 import Link from "next/link"
 import Image from "next/image"
 import HomeStructuredData from "./structured-data"
@@ -113,7 +114,9 @@ export default async function Home() {
           </div>
         </div>
       </section>
-
+      <div className="flex justify-center items-center">
+         <Search />
+      </div>
       {/* Content Sections */}
       <MediaSection title="Trending Now" media={trendingWithType} viewAllHref="/trending" />
 
