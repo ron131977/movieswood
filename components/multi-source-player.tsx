@@ -30,7 +30,7 @@ export default function MultiSourcePlayer({ sources, title }: MultiSourcePlayerP
   return (
     <div className="space-y-2">
       <Tabs defaultValue={activeSource} onValueChange={setActiveSource} className="w-full">
-        <TabsList className="w-full justify-start">
+      <TabsList className="w-full justify-center">
           {sources.map((source) => (
             <TabsTrigger key={source.id} value={source.id}>
               {source.name}
@@ -40,6 +40,7 @@ export default function MultiSourcePlayer({ sources, title }: MultiSourcePlayerP
 
         {sources.map((source) => (
           <TabsContent key={source.id} value={source.id} className="mt-2">
+               <h3 className="justify-center items-center text-center">Check Other Player, if the content is Streaming. </h3>
             <div className="relative w-full overflow-hidden rounded-lg bg-black aspect-video">
               {isLoading && (
                 <div className="absolute inset-0 flex items-center justify-center bg-black">
