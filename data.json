@@ -158,7 +158,7 @@
     },
     {
       "id": "447273",
-      "videoUrl": "https://voe.sx/e/v2ltgyk93nm7"
+      "videoUrl": "https://str35.vidoza.net/nvl4hnvomqfeieno3vdqlhpypiqvqvdzxq2g7z7eckl7stkr4sdfny5vn36q/v.mp4"
     },
     {
       "id": "710295",
@@ -388,6 +388,22 @@
     }
   ],
   "adult": [
+    {
+      "id": "A45",
+      "slug": "arouse-2025",
+      "title": "Arouse - Tagalog Movie",
+      "description": "NA",
+      "poster":"https://static-3.bitchute.com/live/cover_images/oS0eEVuI7IU4/RMsiQvOoX5ba_320x180.jpg",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODhiMzljNGMtYWVkNy00ZmU1LWIzYzktZjdkMDMwZDI5NjJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "videoUrl": "https://short.icu/8sYq5amvk?thumbnail=https://static-3.bitchute.com/live/cover_images/oS0eEVuI7IU4/RMsiQvOoX5ba_320x180.jpg",
+      "videoUrl1": "https://filemoon.to/e/9nyloaprj9tx/Arouse_2025",
+      "videoUrl2": "https://str28.vidoza.net/nvl4ewfomqfeieno3vdqluvbp7ztotfqljjggqpt3tztxk6h2kyyxhgvnf3q/v.mp4",
+      "duration": 4320,
+      "views": 35190,
+      "category": "Adult",
+      "releaseDate": "2025-03-25",
+      "director": "Roe Pajemna"
+    },
     {
       "id": "A44",
       "slug": "panty-2025",
@@ -1319,48 +1335,56 @@
       {
         "id": "astro-football",
         "name": "Astro Football",
+        "time":"12:00",
         "poster": "https://i.ytimg.com/vi/dDqsS_Olnl4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBu2r-8y1MUYY_wNHs7KVfNxdtAhQ",
         "m3u8": "http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8"
       },
       {
         "id": "nba-tv",
         "name": "NBA TV",
+        "time":"18:45",
         "poster": "https://yt3.googleusercontent.com/L1ifQn0wiH9xsZQHw5W6uVyx7AG3YuKD8HzTDKCsycJoI5cAzm8olCOn7U9uQk8JJFtJvyqZHA=s900-c-k-c0x00ffffff-no-rj",
         "m3u8": "http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8"
       },
       {
         "id": "tennis-channel",
         "name": "Tennis Channel",
+        "time":"18:30",
         "poster": "https://media.licdn.com/dms/image/v2/C4E0BAQGjvnBSYRriIw/company-logo_200_200/company-logo_200_200/0/1646327585440/the_tennis_channel_logo?e=2147483647&v=beta&t=_T_xKpgh-nmQ55dC5pxE4Ng2r2YYmDG25ulDKWSuztQ",
         "m3u8": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
       },
       {
         "id": "sky-sports-f1",
         "name": "Sky Sports F1",
+        "time":"17:00",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5EwD8TT6zoRsfInw26JAN46Yyoi--Pealg&s",
         "m3u8": "https://stream1.freetv.fun/85eef17c0deaddf407fc1ecbd45cc65e530fead78d187234dbb1896ea74d1847.m3u8"
       },
       {
         "id": "fox-sports-1",
         "name": "FOX Sports 1",
+        "time":"02:30",
         "poster": "https://www.sportsmediawatch.com/wp-content/uploads/2012/11/foxsports1.gif",
         "m3u8": "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8"
       },
       {
         "id": "billiard-tv",
         "name": "Billiard TV",
+        "time":"21:30",
         "poster": "https://provider-static.plex.tv/epg/cms/production/aa3a9bd8-58bd-4c62-b1aa-d4f863841127/Plex_billiard_vertical.jpg",
         "m3u8": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01267-triplebmedia-billiardtv-lgus/playlist.m3u8"
       },
       {
         "id": "dazn",
         "name": "DAZN",
+        "time":"22:00",
         "poster": "https://cdn.siasat.com/wp-content/uploads/2023/05/DAZn.jpg",
         "m3u8": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazntv-lgca/playlist.m3u8"
       },
       {
         "id": "super-tennis",
         "name": "Super Tennis",
+        "time":"19:30",
         "poster": "https://superrepo.org/static/images/icons/original/xplugin.video.supertennis.png.pagespeed.ic.PQ2tJJPKxG.png",
         "m3u8": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8"
       }
