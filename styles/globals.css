@@ -92,3 +92,38 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+@import "https://cdn.plyr.io/3.7.8/plyr.css";
+
+.plyr__video-wrapper {
+  height: 100%;
+}
+
+.plyr--video {
+  height: 100%;
+  width: 100%;
+}
+
+
+Custom Plyr styles
+.plyr__video-wrapper {
+  height: 100%;
+  position: relative;
+}
+
+.plyr--video .plyr__controls {
+  background: linear-gradient(transparent, rgba(0,0,0,0.5));
+}
+
+.plyr__control--overlaid {
+  background: rgba(0,0,0,0.8);
+  padding: 1.5rem;
+}
+
+.plyr__control--overlaid:hover {
+  background: rgba(0,0,0,1);
+}
+
+.plyr--full-ui input[type="range"] {
+  color: #fff;
+}
