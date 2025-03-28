@@ -1,12 +1,20 @@
 {
   "movie": [
     {
+      "id": "13078",
+      "videoUrl": "https://short.icu/AyXNZ4bIr?thumbnail=https://cover.box3.net/newsimg/dvdmov/max1511226713-front-cover.jpg"
+    },
+    {
       "id": "1428777",
-      "videoUrl": "https://voe.sx/e/z7r8qyjpereu"
+      "videoUrl": "https://short.icu/o6IJCz3v8j?thumbnail=https://jagruktimes.co.in/wp-content/uploads/2025/03/tumko-meri-kasam-2.webp"
     },
     {
       "id": "1443168",
-      "videoUrl": "https://voe.sx/e/zapf1treemn1"
+      "videoUrl": "https://short.icu/TJMi0QEWs?thumbnail=https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/pintu-ki-pappi-et00424820-1742378746.jpg"
+    },
+    {
+      "id": "1452776",
+      "videoUrl": "https://short.icu/XkZidBpom?thumbnail=https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/baida-et00434719-1740040380.jpg"
     },
     {
       "id": "1124620",
@@ -158,7 +166,7 @@
     },
     {
       "id": "447273",
-      "videoUrl": "https://str35.vidoza.net/nvl4hnvomqfeieno3vdqlhpypiqvqvdzxq2g7z7eckl7stkr4sdfny5vn36q/v.mp4"
+      "videoUrl": "https://voe.sx/e/v2ltgyk93nm7"
     },
     {
       "id": "710295",
@@ -211,6 +219,14 @@
     {
       "id": "1186532",
       "videoUrl": "https://voe.sx/e/ey94s7xrcahx"
+    },
+    {
+      "id": "1442440",
+      "videoUrl": "https://short.icu/PeDQMcZVU?thumbnail=https://occ-0-8407-1009.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYLKcZMGuo6MrKKgVyH0FwTs9Ldk1_evDh4KYzesMHrdskCZYKg-uGzOJWMuodH_vtfwkdFeZ-9ImDnGXxsDJkOM_gk90_RQJzcxq0c-rxbasqVHwp_iQ0hbSTMyl0KiYKW9.jpg?r=0d8"
+    },
+    {
+      "id": "257094",
+      "videoUrl": "https://voe.sx/e/5nkouj9wfwmf"
     },
     {
       "id": "1235499",
@@ -385,19 +401,71 @@
       "id": "260497",
       "season1": "",
       "season2": "https://short.icu/XUgndozfZ?thumbnail=https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6170/1734428586170-i"
+    },
+    {
+      "id": "107588",
+      "season1": "",
+      "season2": "",
+      "season3": "https://vidoza.net/embed-x1m867rmllon.html"
     }
   ],
   "adult": [
+    {
+      "id": "A48",
+      "slug": "kundi-kat-khadkao-raja-part-1",
+      "title": "Kundi Mat Khadkao Raja Part 1 - Webseries",
+      "description": "Rohan joins coaching at his aunt's place, falls for his teacher, wins her over, but a neighbor's twist changes everything.",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BMzE2YjJhOWEtM2MxMS00NDZmLTgzMjItOTcxN2Q1Y2NiOTkzXkEyXkFqcGc@._V1_.jpg",
+      "videoUrl": "https://short.icu/h6mb9Jpu_4?thumbnail=https://i.ytimg.com/vi/bVpirqwE_Ns/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBTsKVu-_hp3LA6PsnRyaFwcQHcmg",
+      "videoUrl1": "https://voe.sx/e/yimluapvkz7r",
+      "videoUrl2": "https://vidoza.net/embed-3ys4xwqgtls5.html",
+      "duration": 6540,
+      "views": 95190,
+      "category": "Adult",
+      "releaseDate": "2025-03-24",
+      "director": "NA"
+    },
+    {
+      "id": "A47",
+      "slug": "dulhaniya-beediwali",
+      "title": "Dulhaniya Beediwali - Webseries",
+      "description": "Newlywed Nisha visits her ancestral village with her husband, Rohan, only to discover the eerie curse of Dulhaniya Beediwali. Every man must wear bridal attire to avoid a deadly fate. When Rohan hesitates to follow this chilling tradition, dark secrets unravel, and the curse’s sinister origins surface. As fear grips the village, Nisha must confront her past and protect Rohan in a desperate bid to break the curse before it’s too late.",
+      "thumbnailUrl": "https://filmy4web1.pro.in/images/movies/Dulhaniya+Beediwali+Filmy4WEB+2025+Hindi+Altbalaji+Web+Series.jpg",
+      "videoUrl": "https://short.icu/OaBBvko8o?thumbnail=https://i.ytimg.com/vi/G0oYHbby-yo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAJL_w98if4_xmSz4p2vydI_Hyrgg",
+      "videoUrl1": "https://voe.sx/e/x7nlfhqliaav",
+      "videoUrl2": "https://vidoza.net/embed-j56cozrg4xb6.html",
+      "duration": 5940,
+      "views": 75190,
+      "category": "Adult",
+      "releaseDate": "2025-03-24",
+      "director": "NA"
+    },
+    {
+      "id": "A46",
+      "slug": "pati-patni-aur-padosan-s01",
+      "title": "Pati Patni Aur Padosan - Webseries",
+      "description": "NA",
+      "poster": "https://i.ytimg.com/vi/qCa2zXuqI58/sddefault.jpg",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTJkYmE2NjMtNjQ1Ni00OGZhLThiNzctMWZkN2IyNDY5MmIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "videoUrl": "https://short.icu/DXV_PiBCQ?thumbnail=https://i.ytimg.com/vi/qCa2zXuqI58/sddefault.jpg",
+      "videoUrl1": "https://voe.sx/e/zbn20dfwzxyc",
+      "videoUrl2": "https://vidoza.net/embed-btn9or0xc44y.html",
+      "duration": 4320,
+      "views": 35190,
+      "category": "Adult",
+      "releaseDate": "2025-02-20",
+      "director": "Raaj Shetty"
+    },
     {
       "id": "A45",
       "slug": "arouse-2025",
       "title": "Arouse - Tagalog Movie",
       "description": "NA",
-      "poster":"https://static-3.bitchute.com/live/cover_images/oS0eEVuI7IU4/RMsiQvOoX5ba_320x180.jpg",
+      "poster": "https://static-3.bitchute.com/live/cover_images/oS0eEVuI7IU4/RMsiQvOoX5ba_320x180.jpg",
       "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BODhiMzljNGMtYWVkNy00ZmU1LWIzYzktZjdkMDMwZDI5NjJkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "videoUrl": "https://short.icu/8sYq5amvk?thumbnail=https://static-3.bitchute.com/live/cover_images/oS0eEVuI7IU4/RMsiQvOoX5ba_320x180.jpg",
-      "videoUrl1": "https://filemoon.to/e/9nyloaprj9tx/Arouse_2025",
-      "videoUrl2": "https://str28.vidoza.net/nvl4ewfomqfeieno3vdqluvbp7ztotfqljjggqpt3tztxk6h2kyyxhgvnf3q/v.mp4",
+      "videoUrl1": "https://voe.sx/e/1kull6zlrxwx",
+      "videoUrl2": "https://vidoza.net/embed-ow4d4p0et9n6.html",
       "duration": 4320,
       "views": 35190,
       "category": "Adult",
@@ -1241,7 +1309,6 @@
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz7mEr3P3uiXpV2fXXLXjv6oafvELKqclt9A&s",
         "m3u8": "https://b43519b7459943af841845300f2f4b0c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vizio_IONMystery/playlist.m3u8"
       }
-      
     ],
     "ChidiyaUdd-S01": [
       {
@@ -1331,60 +1398,92 @@
         "m3u8": "https://d3sgzbosmwirao.cloudfront.net/video/8b104debf9b307b5914e05df379464a428d139c762e3b22d4f750f4b6833f1fc/2/hls/h264_high.m3u8"
       }
     ],
-    "sports": [
+    "EkBadnaamAashram-S03-P2": [
+      {
+        "id": "kopa-bhavan-s03-e01",
+        "name": "Kopa - Bhavan E01",
+        "poster": "https://qqcdnpictest.mxplay.com/pic/b733241a65b55f159197780b77fed2c0/en/16x9/640x360/de0e6d5a313310e999b4e63e8ae7eed0_1920x1080.jpg",
+        "m3u8": "https://d3sgzbosmwirao.cloudfront.net/video/db56b7e207843bcd4ae5bbb57a885d1d8e6069e7248e4e1f3b0b63079bbc3fc6/1/hls/h264_high.m3u8"
+      },
+      {
+        "id": "prayashchit-s03-e02",
+        "name": "Prayashchit E02",
+        "poster": "https://qqcdnpictest.mxplay.com/pic/d54af02476c6cc189082507e99b97872/en/16x9/480x270/ccd827ff8b2bd6c26cfab7f6967db30a_1920x1080.webp",
+        "m3u8": "https://d3sgzbosmwirao.cloudfront.net/video/61ee614ead8d62cfb478235d48129d153c91f8344571bdd231139bd0abd3f27e/1/hls/h264_high.m3u8"
+      },
+      {
+        "id": "prem-paash-s03-e03",
+        "name": "Prem - Paash E03",
+        "poster": "https://qqcdnpictest.mxplay.com/pic/f343b5462c7a84711d56ba0e2687aed5/en/16x9/480x270/e279c5fc4e1abdbfaedd652d59de3a2d_1920x1080.webp",
+        "m3u8": "https://d3sgzbosmwirao.cloudfront.net/video/cf36debf7d3790dab55584726fd4d5b4262a5ea492efa8e4287f767e63614b54/1/hls/h264_high.m3u8"
+      },
+      {
+        "id": "kaala-sach-s03-e04",
+        "name": "Kaala - Sach E04",
+        "poster": "https://qqcdnpictest.mxplay.com/pic/7eb3a725d99dd82c3f82902b79a2bd04/en/16x9/480x270/a148bc8fde284c7dca47db74ba9937db_1920x1080.webp",
+        "m3u8": "https://d3sgzbosmwirao.cloudfront.net/video/ef046ffef7cee8ed4cec078414c7f7f4bf2ccce98d0bf72d836447c4b7ae42dd/1/hls/h264_high.m3u8"
+      },
+      {
+        "id": "agni-pareeksha-s03-e05",
+        "name": "Agni - Pareeksha E05",
+        "poster": "https://qqcdnpictest.mxplay.com/pic/713223caaf38f20257b83b0caff425f8/en/16x9/480x270/fa8e489ad330813393bed02624d73a0f_1920x1080.webp",
+        "m3u8": "https://d3sgzbosmwirao.cloudfront.net/video/faffe021abfb57801b6cea55b01ffe368c5ddb3c5de3595f9bf840ba333388e2/1/hls/h264_high.m3u8"
+      }
+    ],
+     "sports": [
       {
         "id": "astro-football",
         "name": "Astro Football",
-        "time":"12:00",
+        "time": "12:00",
         "poster": "https://i.ytimg.com/vi/dDqsS_Olnl4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBu2r-8y1MUYY_wNHs7KVfNxdtAhQ",
         "m3u8": "http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8"
       },
       {
         "id": "nba-tv",
         "name": "NBA TV",
-        "time":"18:45",
+        "time": "18:45",
         "poster": "https://yt3.googleusercontent.com/L1ifQn0wiH9xsZQHw5W6uVyx7AG3YuKD8HzTDKCsycJoI5cAzm8olCOn7U9uQk8JJFtJvyqZHA=s900-c-k-c0x00ffffff-no-rj",
         "m3u8": "http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8"
       },
       {
         "id": "tennis-channel",
         "name": "Tennis Channel",
-        "time":"18:30",
+        "time": "18:30",
         "poster": "https://media.licdn.com/dms/image/v2/C4E0BAQGjvnBSYRriIw/company-logo_200_200/company-logo_200_200/0/1646327585440/the_tennis_channel_logo?e=2147483647&v=beta&t=_T_xKpgh-nmQ55dC5pxE4Ng2r2YYmDG25ulDKWSuztQ",
         "m3u8": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
       },
       {
         "id": "sky-sports-f1",
         "name": "Sky Sports F1",
-        "time":"17:00",
+        "time": "17:00",
         "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5EwD8TT6zoRsfInw26JAN46Yyoi--Pealg&s",
         "m3u8": "https://stream1.freetv.fun/85eef17c0deaddf407fc1ecbd45cc65e530fead78d187234dbb1896ea74d1847.m3u8"
       },
       {
         "id": "fox-sports-1",
         "name": "FOX Sports 1",
-        "time":"02:30",
+        "time": "02:30",
         "poster": "https://www.sportsmediawatch.com/wp-content/uploads/2012/11/foxsports1.gif",
         "m3u8": "http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8"
       },
       {
         "id": "billiard-tv",
         "name": "Billiard TV",
-        "time":"21:30",
+        "time": "21:30",
         "poster": "https://provider-static.plex.tv/epg/cms/production/aa3a9bd8-58bd-4c62-b1aa-d4f863841127/Plex_billiard_vertical.jpg",
         "m3u8": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01267-triplebmedia-billiardtv-lgus/playlist.m3u8"
       },
       {
         "id": "dazn",
         "name": "DAZN",
-        "time":"22:00",
+        "time": "22:00",
         "poster": "https://cdn.siasat.com/wp-content/uploads/2023/05/DAZn.jpg",
         "m3u8": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazntv-lgca/playlist.m3u8"
       },
       {
         "id": "super-tennis",
         "name": "Super Tennis",
-        "time":"19:30",
+        "time": "19:30",
         "poster": "https://superrepo.org/static/images/icons/original/xplugin.video.supertennis.png.pagespeed.ic.PQ2tJJPKxG.png",
         "m3u8": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8"
       }
@@ -1571,6 +1670,14 @@
         "name": "AMC Thrillers",
         "poster": "https://provider-static.plex.tv/epg/images/thumbnails/AMCThrillers_artwork_vertical.jpg",
         "m3u8": "https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/playlist.m3u8"
+      }
+    ],
+    "Adult": [
+      {
+        "id": "sabel-is-still-young",
+        "name": "Sabel Is Still Young",
+        "poster": "https://i.ytimg.com/vi/wMdV4BUM31s/maxresdefault.jpg",
+        "php": "https://short.icu/3IQY67MQr?thumbnail=https://i.ytimg.com/vi/wMdV4BUM31s/maxresdefault.jpg"
       }
     ],
     "Science": [
